@@ -366,86 +366,17 @@ https://origin.dpsgo.com/ssai/event/8jd3krwvQv2Q3703Wacb-A/master.m3u8
 
 
 
-#EXTINF:-1 group-title="-",ABE Educativo
-http://181.115.237.3:9560/play/a02m/index.m3u8
-#EXTINF:-1 group-title="-",America TV HD
-http://181.115.237.3:9560/play/a02d/index.m3u8
-#EXTINF:-1 group-title="-",Bolivia Tv HD
-http://181.115.237.3:9560/play/a006/index.m3u8
-#EXTINF:-1 group-title="-",Bolivision HD
-http://181.115.237.3:9560/play/a00b/index.m3u8
-#EXTINF:-1 group-title="-",Cadena A HD
-http://181.115.237.3:9560/play/a00c/index.m3u8
-#EXTINF:-1 group-title="-",Cinecanal HD
-http://181.115.237.3:9560/play/a01i/index.m3u8
-#EXTINF:-1 group-title="-",DTV
-http://181.115.237.3:9560/play/a00d/index.m3u8
-#EXTINF:-1 group-title="-",Discovery HD
-http://181.115.237.3:9560/play/a01n/index.m3u8
-#EXTINF:-1 group-title="-",Discovery Kids HD
-http://181.115.237.3:9560/play/a01e/index.m3u8
-#EXTINF:-1 group-title="-",Discovery World
-http://181.115.237.3:9560/play/a025/index.m3u8
-#EXTINF:-1 group-title="-",Disney Channel
-http://181.115.237.3:9560/play/a02n/index.m3u8
-#EXTINF:-1 group-title="-",Disney HD
-http://181.115.237.3:9560/play/a02o/index.m3u8
-#EXTINF:-1 group-title="-",ESPN 2 HD
-http://181.115.237.3:9560/play/a01a/index.m3u8
-#EXTINF:-1 group-title="-",ESPN 3 HD
-http://181.115.237.3:9560/play/a02a/index.m3u8
-#EXTINF:-1 group-title="-",ESPN 4HD
-http://181.115.237.3:9560/play/a029/index.m3u8
-#EXTINF:-1 group-title="-",ESPN 5HD
-http://181.115.237.3:9560/play/a01j/index.m3u8
-#EXTINF:-1 group-title="-",ESPN HD
-http://181.115.237.3:9560/play/a02t/index.m3u8
-#EXTINF:-1 group-title="-",F 10
-http://181.115.237.3:9560/play/a00j/index.m3u8
-#EXTINF:-1 group-title="-",FAP HD
-http://181.115.237.3:9560/play/a00l/index.m3u8
-#EXTINF:-1 group-title="-",FX HD
-http://181.115.237.3:9560/play/a01m/index.m3u8
-#EXTINF:-1 group-title="-",Giga Vision HD
-http://181.115.237.3:9560/play/a00a/index.m3u8
-#EXTINF:-1 group-title="-",HBO HD
-http://181.115.237.3:9560/play/a01k/index.m3u8
-#EXTINF:-1 group-title="-",Latina HD
-http://181.115.237.3:9560/play/a02b/index.m3u8
-#EXTINF:-1 group-title="-",Nick HD
-http://181.115.237.3:9560/play/a01l/index.m3u8
-#EXTINF:-1 group-title="-",PANAMERICANA
-http://181.115.237.3:9560/play/a027/index.m3u8
-#EXTINF:-1 group-title="-",PAT
-http://181.115.237.3:9560/play/a00n/index.m3u8
-#EXTINF:-1 group-title="-",Plus Tlt Tarija
-http://181.115.237.3:9560/play/a00k/index.m3u8
-#EXTINF:-1 group-title="-",RED SIGLO XXI
-http://181.115.237.3:9560/play/a00m/index.m3u8
-#EXTINF:-1 group-title="-",Radio RPOs
-http://181.115.237.3:9560/play/a028/index.m3u8
-#EXTINF:-1 group-title="-",Red Uno LPZ HD
-http://181.115.237.3:9560/play/a008/index.m3u8
-#EXTINF:-1 group-title="-",Red Uno SCZ
-http://181.115.237.3:9560/play/a007/index.m3u8
-#EXTINF:-1 group-title="-",STAR CHANNEL HD
-http://181.115.237.3:9560/play/a01f/index.m3u8
-#EXTINF:-1 group-title="-",Sitel Potosi
+
+#EXTINF:-1 tvg-id="44" tvg-name="HTV MUSIC" tvg-logo="https://i.ibb.co/bjBZGS4n/ONSPORTSSINFONDO.png" group-title="Nacionales", Sitel
 http://181.115.237.3:9560/play/a009/index.m3u8
-#EXTINF:-1 group-title="-",Space HD
-http://181.115.237.3:9560/play/a01h/index.m3u8
-#EXTINF:-1 group-title="-",TVU Pando
-http://181.115.237.3:9560/play/a02l/index.m3u8
-#EXTINF:-1 group-title="-",Warner Channel HD
-http://181.115.237.3:9560/play/a01g/index.m3u8
 
 
 
+#EXTINF:-1 tvg-id="44" tvg-name="HTV MUSIC" tvg-logo="https://i.ibb.co/bjBZGS4n/ONSPORTSSINFONDO.png" group-title="Nacionales", Star Channel
+http://181.115.237.3:9560/play/a01f/index.m3u8
 
-
-
-
-
+#EXTINF:-1 tvg-id="44" tvg-name="HTV MUSIC" tvg-logo="https://i.ibb.co/bjBZGS4n/ONSPORTSSINFONDO.png" group-title="Nacionales", HBO
+http://181.115.237.3:9560/play/a01k/index.m3u8
 
 
 
