@@ -277,6 +277,20 @@ https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-id="44" tvg-name="Retro Plus" tvg-logo="https://i.ibb.co/8tCPgpj/RETRO-PLUS.jpg" group-title="Nacionales",Retro Plus
+https://tls-cl.cdnz.cl/retroplustvuno/live/chunklist_w726474263.m3u8
+
+
+
+#EXTINF:-1 tvg-id="44" tvg-name="Retro Plus" tvg-logo="https://i.ibb.co/8tCPgpj/RETRO-PLUS.jpg" group-title="Nacionales",Retro Plus 2
+https://tls-cl.cdnz.cl/retroplustvdos/live/chunklist_w389034133.m3u8
+
+#EXTINF:-1 tvg-id="44" tvg-name="Retro Plus" tvg-logo="https://i.ibb.co/8tCPgpj/RETRO-PLUS.jpg" group-title="Nacionales",Retro Plus 3
+https://tls-cl.cdnz.cl/retroplustvtres/live/chunklist_w919102853.m3u8
+
+
+
+
 
 
 
