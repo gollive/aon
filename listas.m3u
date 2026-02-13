@@ -173,6 +173,18 @@ https://lv.andeshost.com/hls/faptv/index.m3u8
 https://seo.tv.bo/hls/TVOFF.m3u8
 
 
+#EXTINF:-1 tvg-id="38" tvg-name="Canal TDT Multimedia" tvg-logo="https://tele6.tv.bo/wp-content/uploads/2025/07/274641706_102980908995414_2209904193207960606_n-removebg-preview.png" group-title="Nacionales",Canal TDT Multimedia
+https://video01.kshost.com.br:4443/juan6318/juan6318/chunklist_w1322871957.m3u8
+
+
+#EXTINF:-1 tvg-id="38" tvg-name="Canal Tele 6" tvg-logo="https://tele6.tv.bo/wp-content/uploads/2025/07/274641706_102980908995414_2209904193207960606_n-removebg-preview.png" group-title="Nacionales",Canal Tele 6
+https://59d39900ebfb8.streamlock.net:443/tele6/tele6/playlist.m3u8
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="38" tvg-name="Siglo XXI" tvg-logo="https://canales.asplurtv.com/logo_sigloxxi.png" group-title="Nacionales", Siglo XXI
 https://59d39900ebfb8.streamlock.net:443/sigloxxi/sigloxxi/playlist.m3u8
 
@@ -232,6 +244,63 @@ https://cablered.iptvperu.tv:1936/cablered/tlnovelas-srt_new/playlist.m3u8
 
 #EXTINF:-1 tvg-id="44" tvg-name="Karibeña" tvg-logo="https://i.ibb.co/mCgBqMsN/KARIBE-A.png" group-title="Nacionales", Karibeña
 https://live-player.egostreaming.pe/karibenatv_685a-pe-a5676-584412/tracks-v1a1/mono.ts.m3u8
+
+
+#EXTINF:-1 tvg-id="44" tvg-name="TVM" tvg-logo="https://tvmusicala.com/wp-content/uploads/logo-tvm-cabecera-mayo2024.png" group-title="Nacionales",TVM
+https://tv.bitstreaming.net:3999/multi_web/play_1080.m3u8
+
+
+#EXTINF:-1 tvg-id="44" tvg-name="Venus Media" tvg-logo="https://www.venus.com.py/wp-content/uploads/2019/05/logo2-large@2x.png" group-title="Nacionales",Venus Media
+https://tigocloud.desdeparaguay.net/venusmedia/venusmedia/playlist.m3u8?k=a40c7ab3efd01873f783caff2234a43a1f8b49934b8abd6d15498bf57c5afd77&exp=1745809429
+
+
+
+#EXTINF:-1 tvg-id="44" tvg-name="Activa" tvg-logo="https://i.ibb.co/NgkPZcnH/ACTIVATV.png" group-title="Nacionales",Activa
+https://streamtv1.serviciospararadios.es/hls/activatv/index.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="44" tvg-name="Musica Top" tvg-logo="https://tv.wurtlitzer.com/imagenes/categoria/musica/music_top.png" group-title="Nacionales",Musica Top
+https://stream-gtlc.telecentro.net.ar/hls/musictophls/0/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="44" tvg-name="Carolina TV 2" tvg-logo="https://tv.wurtlitzer.com/imagenes/categoria/musica/carolina_tv_2.png" group-title="Nacionales",Carolina TV 2
+https://jireh-1-hls-video-cl-isp.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/carolinatv2/carolinatv2.smil/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="44" tvg-name="Cadena Élite" tvg-logo="https://tv.wurtlitzer.com/imagenes/categoria/musica/cadena_elite.png" group-title="Nacionales",Cadena Élite
+https://cloudvideo.servers10.com:8081/8004/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="44" tvg-name="Portalfoxmix" tvg-logo="https://tv.wurtlitzer.com/imagenes/categoria/musica/portalfoxmix.png" group-title="Nacionales",Portalfoxmix
+https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="44" tvg-name="Pequeradio TV" tvg-logo="https://tv.wurtlitzer.com/imagenes/categoria/animacion/pequeradio_tv.png" group-title="Nacionales",Pequeradio TV
+https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="44" tvg-name="Señal Colombia" tvg-logo="https://tv.wurtlitzer.com/imagenes/categoria/internacional/senal_colombia.png" group-title="Nacionales",Señal Colombia
+https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="44" tvg-name="Voz en off" tvg-logo="https://tv.wurtlitzer.com/imagenes/categoria/musica/voice_over_radio_tv.png" group-title="Nacionales",Voz en off
+https://cloudvideo.servers10.com:8081/8198/tracks-v1a1/rewind-3600.m3u8
+
+
+#EXTINF:-1 tvg-id="44" tvg-name="Punt3" tvg-logo="https://i.ibb.co/wN6stjMp/PUNT3.pngg" group-title="Nacionales",Punt3
+https://bit.controlstreams.com:5443/LiveApp/streams/punt3.m3u8
+
 
 
 #EXTINF:-1 tvg-id="44" tvg-name="CHV (Chile)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Logo_CHV_2015.png" group-title="Nacionales", CHV (Chile)
