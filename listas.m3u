@@ -1,15 +1,15 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="44" tvg-name="HTV MUSIC" tvg-logo="https://tips.gg/es/match/gv-san-jose-vs-always-ready-12-02-2026-09-15/poster/" group-title="Nacionales", Liga Boliviana
+#EXTINF:-1 tvg-id="44" tvg-name="HTV MUSIC" tvg-logo="https://i.ibb.co/bjBZGS4n/ONSPORTSSINFONDO.png" group-title="Nacionales", Liga Boliviana
 https://customer-y2gm8p8s62qd6vsm.cloudflarestream.com/514e3012356d4e0a39794de4335321f4/manifest/video.m3u8
 
 
-#EXTINF:-1 tvg-id="44" tvg-name="HTV MUSIC" tvg-logo="https://sportal365images.com/process/smp-images-production/record.mx/20012026/fadf5089-fc0d-4f89-bd3d-6a6f58036725.jpg" group-title="Nacionales", SKY Sports
+#EXTINF:-1 tvg-id="44" tvg-name="HTV MUSIC" tvg-logo="https://i.ibb.co/bjBZGS4n/ONSPORTSSINFONDO.png" group-title="Nacionales", SKY Sports
 https://normielista.stream/sky_sports_mx_1/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:-1 tvg-id="44" tvg-name="HTV MUSIC" tvg-logo="https://sportal365images.com/process/smp-images-production/record.mx/20012026/fadf5089-fc0d-4f89-bd3d-6a6f58036725.jpg" group-title="Nacionales", America Tv
+#EXTINF:-1 tvg-id="44" tvg-name="HTV MUSIC" tvg-logo="https://i.ibb.co/bjBZGS4n/ONSPORTSSINFONDO.png" group-title="Nacionales", America Tv
 http://8.243.126.131:8000/play/a0l4/index.m3u8
 
 
