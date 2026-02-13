@@ -378,5 +378,19 @@ http://181.115.237.3:9560/play/a01f/index.m3u8
 #EXTINF:-1 tvg-id="44" tvg-name="HTV MUSIC" tvg-logo="https://i.ibb.co/bjBZGS4n/ONSPORTSSINFONDO.png" group-title="Nacionales", HBO
 http://181.115.237.3:9560/play/a01k/index.m3u8
 
+#EXTINF:-1 tvg-id="44" tvg-name="HTV MUSIC" tvg-logo="https://i.ibb.co/bjBZGS4n/ONSPORTSSINFONDO.png" group-title="Nacionales", FX
+http://181.115.237.3:9560/play/a01m/index.m3u8
 
 
+#EXTINF:-1 tvg-id="44" tvg-name="HTV MUSIC" tvg-logo="https://i.ibb.co/bjBZGS4n/ONSPORTSSINFONDO.png" group-title="Nacionales", CINE CANAL
+http://181.115.237.3:9560/play/a01i/index.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="44" tvg-name="HTV MUSIC" tvg-logo="https://i.ibb.co/bjBZGS4n/ONSPORTSSINFONDO.png" group-title="Nacionales", NICK
+http://181.115.237.3:9560/play/a01l/index.m3u8
+
+
+#EXTINF:-1 tvg-id="44" tvg-name="HTV MUSIC" tvg-logo="https://i.ibb.co/bjBZGS4n/ONSPORTSSINFONDO.png" group-title="Nacionales", Disney 
+http://181.115.237.3:9560/play/a02o/index.m3u8
