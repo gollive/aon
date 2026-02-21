@@ -4,13 +4,8 @@
 http://190.92.10.66:4000/play/a001/index.m3u8
 
 
-#EXTINF:-1 tvg-id="44" tvg-name="HTV MUSIC" tvg-logo="https://i.ibb.co/bjBZGS4n/ONSPORTSSINFONDO.png" group-title="Nacionales", SKY Sports
-http://190.92.10.66:4000/play/a006/index.m3u8
 
 
-
-#EXTINF:-1 tvg-id="44" tvg-name="HTV MUSIC" tvg-logo="https://i.ibb.co/bjBZGS4n/ONSPORTSSINFONDO.png" group-title="Nacionales", America Tv
-http://8.243.126.131:8000/play/a0l4/index.m3u8
 
 
 
@@ -335,6 +330,9 @@ https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist108
 
 #EXTINF:-1 tvg-id="44" tvg-name="RT" tvg-logo="https://i.ibb.co/vxSj77t7/RTES.png" group-title="Nacionales", RT
 https://rt-esp.rttv.com/dvr/rtesp/playlist_800Kb.m3u8
+
+#EXTINF:-1 tvg-id="44" tvg-name="RT" tvg-logo="https://www.hispantv.com/Views/Assets/img/logo.png" group-title="Nacionales", HISPAN TV
+https://live.presstv.ir/hls/hispantv.m3u8
 
 
 #EXTINF:-1 tvg-id="44" tvg-name="RTVE" tvg-logo="https://i.ibb.co/2Ym0YmPY/CANAL24.png" group-title="Nacionales", RTVE
