@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="44" tvg-name="HTV MUSIC" tvg-logo="https://i.ibb.co/F4S06nXd/ONPLUSS.png" group-title="Nacionales", EVENTOS
-https://qzv4jmsc.fubohd.com:443/espn2/mono.m3u8?token=a9700b9115e86ead8468fc3a761bf5cb5f90dbd0-39-1772491054-1772473054
+https://ssout.marsrivagg.click:443/disney1/index.m3u8?token=93862817b783d5b903cb043f3757928b57e5e22b-98-1772522369-1772468369&ip=181.115.171.206
 
 #EXTINF:-1 tvg-id="44" tvg-name="HTV MUSIC" tvg-logo="https://i.ibb.co/F4S06nXd/ONPLUSS.png" group-title="Nacionales", EVENTOS 2
 https://ssout.marsrivagg.click:443/espn2/index.m3u8?token=65a34d0c01efd5020bac0078a8152aa310797764-6f-1772519148-1772465148&ip=181.115.171.206
@@ -257,6 +257,7 @@ https://cablered.iptvperu.tv:1936/cablered/tlnovelas-srt_new/playlist.m3u8
 
 
 
+
 #EXTINF:-1 tvg-id="44" tvg-name="SPACE" tvg-logo="https://i.ibb.co/5WthgwGc/SPACE.png" group-title="Nacionales", SPACE
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278515.m3u8
 
@@ -405,14 +406,26 @@ https://cablered.iptvperu.tv:1936/cablered/goldenedge_new/playlist.m3u8
 #EXTINF:-1 tvg-id="44" tvg-name="T13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Universal_Pictures_logo.png" group-title="Nacionales", Universal
 https://cablered.iptvperu.tv:1936/transcoder/universal_t3.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="44" tvg-name="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="Nacionales", Cinecanal
+https://cablered.iptvperu.tv:1936/cablered/cinecanal_new/playlist.m3u8
+
+
 #EXTINF:-1 tvg-id="44" tvg-name="T13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" group-title="Nacionales", TCM
 https://cablered.iptvperu.tv:1936/cablered/TCM/playlist.m3u8
 
-#EXTINF:-1 tvg-id="44" tvg-name="HBO" tvg-logo="https://i.ibb.co/F4S06nXd/ONPLUSS.png" group-title="Nacionales", HBO Mundi
-http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278501.m3u8
 
 #EXTINF:-1 tvg-id="44" tvg-name="T13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Logo_Distrito_Comedia.png" group-title="Nacionales", Distritocomedia
 https://cablered.iptvperu.tv:1936/cablered/distritocomedia-srt_new/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="44" tvg-name="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png" group-title="Nacionales", Animalplanet
+https://cablered.iptvperu.tv:1936/cablered/animalplanet_new/playlist.m3u8
+
+#EXTINF:-1 tvg-id="44" tvg-name="HBO" tvg-logo="https://i.ibb.co/F4S06nXd/ONPLUSS.png" group-title="Nacionales", Discovery
+https://cablered.iptvperu.tv:1936/cablered/discoveryhd_new/playlist.m3u8
+
+#EXTINF:-1 tvg-id="44" tvg-name="HBO" tvg-logo="https://i.ibb.co/F4S06nXd/ONPLUSS.png" group-title="Nacionales", Natgeo
+https://cablered.iptvperu.tv:1936/cablered/natgeo_new/playlist.m3u8
 
 #EXTINF:-1 tvg-id="44" tvg-name="T13" tvg-logo="https://banner2.cleanpng.com/20181125/uaj/kisspng-logo-tve-internacional-la-1-rtve-tve-hd-5bfae49e01bb39.8822497515431691820071.jpg" group-title="Nacionales", TVE
 https://rtvelivestream.rtve.es/rtvesec/int/tvei_ame_main_dvr.m3u8
