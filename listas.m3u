@@ -1,8 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="44" tvg-name="HTV MUSIC" tvg-logo="https://i.ibb.co/bjBZGS4n/ONSPORTSSINFONDO.png" group-title="Nacionales", Liga Boliviana
-http://190.92.10.66:4000/play/a001/index.m3u8
-
+https://4.fltvhd.com:443/even1/mono.m3u8?token=e84f4110152465637984c2a62b3c1245adaf4852-7c-1772427199-1772409199
 
 
 
