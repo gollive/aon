@@ -408,8 +408,8 @@ https://cablered.iptvperu.tv:1936/transcoder/universal_t3.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="44" tvg-name="T13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" group-title="Nacionales", TCM
 https://cablered.iptvperu.tv:1936/cablered/TCM/playlist.m3u8
 
-#EXTINF:-1 tvg-id="44" tvg-name="T13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Logo_Distrito_Comedia.png" group-title="Nacionales", Distritocomedia
-https://cablered.iptvperu.tv:1936/cablered/distritocomedia-srt_new/playlist.m3u8
+#EXTINF:-1 tvg-id="44" tvg-name="T13" tvg-logo="https://i.ibb.co/F4S06nXd/ONPLUSS.png" group-title="Nacionales", HBO Mundi
+http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278501.m3u8
 
 #EXTINF:-1 tvg-id="44" tvg-name="T13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Logo_Distrito_Comedia.png" group-title="Nacionales", Distritocomedia
 https://cablered.iptvperu.tv:1936/cablered/distritocomedia-srt_new/playlist.m3u8
