@@ -250,8 +250,15 @@ http://181.118.158.103:8000/play/a03a/index.m3u8?hls
 #EXTINF:-1 tvg-id="44" tvg-name="ESPN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" group-title="Nacionales", DSPORTS
 http://38.190.101.128:2233/play/a1ey/index.m3u8
 
+#EXTINF:-1 tvg-id="44" tvg-name="ESPN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/TyCSp.png" group-title="Nacionales", tyc sports
+http://190.7.19.197:232/play/a04w/index.m3u8
+
+
 #EXTINF:-1 tvg-id="44" tvg-name="Liga 1 Max" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/Liga1_%28Per%C3%BA%29_logo.png" group-title="Nacionales", Liga 1 Max
 http://38.187.2.124:8000/play/a067/index.m3u8?hls
+
+
+
 
 
 #EXTINF:-1 tvg-id="44" tvg-name="TL Novelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png" group-title="Nacionales", TL Novelas
