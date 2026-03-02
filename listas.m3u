@@ -1,10 +1,17 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="44" tvg-name="HTV MUSIC" tvg-logo="https://i.ibb.co/F4S06nXd/ONPLUSS.png" group-title="Nacionales", EVENTOS
-https://ssout.marsrivagg.click:443/disney1/index.m3u8?token=93862817b783d5b903cb043f3757928b57e5e22b-98-1772522369-1772468369&ip=181.115.171.206
+#EXTINF:-1 tvg-id="44" tvg-name="HTV MUSIC" tvg-logo="https://i.ibb.co/F4S06nXd/ONPLUSS.png" group-title="Nacionales", Udinese vs Fiorentina 
+https://ssout.marsrivagg.click:443/foxdeportes/index.m3u8?token=9ec46f2ba68eeef7700685c74d4626dc0b9c366f-51-1772526557-1772472557&ip=181.115.171.206
 
-#EXTINF:-1 tvg-id="44" tvg-name="HTV MUSIC" tvg-logo="https://i.ibb.co/F4S06nXd/ONPLUSS.png" group-title="Nacionales", EVENTOS 2
-https://ssout.marsrivagg.click:443/espn2/index.m3u8?token=65a34d0c01efd5020bac0078a8152aa310797764-6f-1772519148-1772465148&ip=181.115.171.206
+#EXTINF:-1 tvg-id="44" tvg-name="HTV MUSIC" tvg-logo="https://i.ibb.co/F4S06nXd/ONPLUSS.png" group-title="Nacionales", Real Madrid vs Getafe 
+https://ssout.marsrivagg.click:443/skylaliga/index.m3u8?token=6d2397d8be127f3adfbbd9a57722f2d690e10fb9-86-1772526427-1772472427&ip=181.115.171.206
+
+#EXTINF:-1 tvg-id="44" tvg-name="HTV MUSIC" tvg-logo="https://i.ibb.co/F4S06nXd/ONPLUSS.png" group-title="Nacionales", Real Madrid vs Getafe 
+https://ssout.marsrivagg.click:443/espndeportes/index.m3u8?token=c91ee3d800c6a77bbdd43f20df1d1b0b21586e24-e7-1772526468-1772472468&ip=181.115.171.206
+
+#EXTINF:-1 tvg-id="44" tvg-name="HTV MUSIC" tvg-logo="https://i.ibb.co/F4S06nXd/ONPLUSS.png" group-title="Nacionales", Real Madrid vs Getafe 
+https://ssout.marsrivagg.click:443/disney3/index.m3u8?token=7780ca40c4506efeb12a33d3e17bb8aa4d6c8a52-86-1772526507-1772472507&ip=181.115.171.206
+
 
 #EXTINF:-1 tvg-id="44" tvg-name="HTV" tvg-logo="https://i.ibb.co/9jLkyrj/HTVOF.png" group-title="Nacionales", HTV MUSIC
 https://cablered.iptvperu.tv:1936/cablered/HTV/playlist.m3u8
