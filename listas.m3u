@@ -1,12 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="44" tvg-name="HTV MUSIC" tvg-logo="https://i.ibb.co/bjBZGS4n/ONSPORTSSINFONDO.png" group-title="Nacionales", Liga Boliviana
-https://4.fltvhd.com:443/even1/mono.m3u8?token=e84f4110152465637984c2a62b3c1245adaf4852-7c-1772427199-1772409199
+#EXTINF:-1 tvg-id="44" tvg-name="HTV MUSIC" tvg-logo="https://i.ibb.co/bjBZGS4n/ONSPORTSSINFONDO.png" group-title="Nacionales", EVENTOS
+http://45.5.119.43:4000/play/a05r/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="44" tvg-name="HTV MUSIC" tvg-logo="https://i.ibb.co/bjBZGS4n/ONSPORTSSINFONDO.png" group-title="Nacionales", Única Tv
-https://59d39900ebfb8.streamlock.net/unicatv/unicatv/chunklist_w766758585.m3u8
 
 #EXTINF:-1 tvg-id="44" tvg-name="HTV" tvg-logo="https://i.ibb.co/9jLkyrj/HTVOF.png" group-title="Nacionales", HTV MUSIC
 https://cablered.iptvperu.tv:1936/cablered/HTV/playlist.m3u8
