@@ -3,8 +3,8 @@
 #EXTINF:-1 tvg-id="44" tvg-name="HTV MUSIC" tvg-logo="https://i.ibb.co/F4S06nXd/ONPLUSS.png" group-title="Nacionales", EVENTOS
 https://qzv4jmsc.fubohd.com:443/espn2/mono.m3u8?token=a9700b9115e86ead8468fc3a761bf5cb5f90dbd0-39-1772491054-1772473054
 
-
-
+#EXTINF:-1 tvg-id="44" tvg-name="HTV MUSIC" tvg-logo="https://i.ibb.co/F4S06nXd/ONPLUSS.png" group-title="Nacionales", EVENTOS 2
+https://ssout.marsrivagg.click:443/espn2/index.m3u8?token=65a34d0c01efd5020bac0078a8152aa310797764-6f-1772519148-1772465148&ip=181.115.171.206
 
 #EXTINF:-1 tvg-id="44" tvg-name="HTV" tvg-logo="https://i.ibb.co/9jLkyrj/HTVOF.png" group-title="Nacionales", HTV MUSIC
 https://cablered.iptvperu.tv:1936/cablered/HTV/playlist.m3u8
