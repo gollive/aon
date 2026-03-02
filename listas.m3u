@@ -382,22 +382,35 @@ https://origin.dpsgo.com/ssai/event/8jd3krwvQv2Q3703Wacb-A/master.m3u8
 
 
 
+#EXTINF:-1 tvg-id="44" tvg-name="T13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Golden_logo.png" group-title="Nacionales", Golden
+https://cablered.iptvperu.tv:1936/cablered/golden-latino_new/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-id="44" tvg-name="T13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/StudioUniversal2016.png" group-title="Nacionales", Studiouniversal
+https://cablered.iptvperu.tv:1936/transcoder/studiouniversal_t2.stream/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-id="44" tvg-name="T13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Golden_Edge_Logo_2020.png" group-title="Nacionales", Goldenedge srt
+https://cablered.iptvperu.tv:1936/cablered/goldenedge-srt_new/playlist.m3u8
 
 
+#EXTINF:-1 tvg-id="44" tvg-name="T13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Golden_Edge_Logo_2020.png" group-title="Nacionales", Goldenedge
+https://cablered.iptvperu.tv:1936/cablered/goldenedge_new/playlist.m3u8
 
 
+#EXTINF:-1 tvg-id="44" tvg-name="T13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Universal_Pictures_logo.png" group-title="Nacionales", Universal
+https://cablered.iptvperu.tv:1936/transcoder/universal_t3.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="44" tvg-name="T13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" group-title="Nacionales", TCM
+https://cablered.iptvperu.tv:1936/cablered/TCM/playlist.m3u8
 
+#EXTINF:-1 tvg-id="44" tvg-name="T13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Logo_Distrito_Comedia.png" group-title="Nacionales", Distritocomedia
+https://cablered.iptvperu.tv:1936/cablered/distritocomedia-srt_new/playlist.m3u8
 
+#EXTINF:-1 tvg-id="44" tvg-name="T13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Logo_Distrito_Comedia.png" group-title="Nacionales", Distritocomedia
+https://cablered.iptvperu.tv:1936/cablered/distritocomedia-srt_new/playlist.m3u8
 
-
-
-
-
-
+#EXTINF:-1 tvg-id="44" tvg-name="T13" tvg-logo="https://banner2.cleanpng.com/20181125/uaj/kisspng-logo-tve-internacional-la-1-rtve-tve-hd-5bfae49e01bb39.8822497515431691820071.jpg" group-title="Nacionales", TVE
+https://rtvelivestream.rtve.es/rtvesec/int/tvei_ame_main_dvr.m3u8
