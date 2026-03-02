@@ -4,7 +4,7 @@
 https://ssout.marsrivagg.click:443/foxdeportes/index.m3u8?token=9ec46f2ba68eeef7700685c74d4626dc0b9c366f-51-1772526557-1772472557&ip=181.115.171.206
 
 #EXTINF:-1 tvg-id="44" tvg-name="ONPLUS" tvg-logo="https://i.ibb.co/F4S06nXd/ONPLUSS.png" group-title="Nacionales", Real Madrid vs Getafe 
-http://181.115.237.3:9560/play/a02t/index.m3u8
+http://181.78.8.199:8000/play/a0b1/index.m3u8
 
 #EXTINF:-1 tvg-id="44" tvg-name="ONPLUS" tvg-logo="https://i.ibb.co/F4S06nXd/ONPLUSS.png" group-title="Nacionales", Real Madrid vs Getafe 
 https://ssout.marsrivagg.click:443/espndeportes/index.m3u8?token=c91ee3d800c6a77bbdd43f20df1d1b0b21586e24-e7-1772526468-1772472468&ip=181.115.171.206
