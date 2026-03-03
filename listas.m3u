@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="44" tvg-name="ONPLUS" tvg-logo="https://i.ibb.co/F4S06nXd/ONPLUSS.png" group-title="Nacionales", Udinese vs Fiorentina 
-https://ssout.marsrivagg.click:443/foxdeportes/index.m3u8?token=9ec46f2ba68eeef7700685c74d4626dc0b9c366f-51-1772526557-1772472557&ip=181.115.171.206
+#EXTINF:-1 tvg-id="44" tvg-name="ONPLUS" tvg-logo="https://i.ibb.co/F4S06nXd/ONPLUSS.png" group-title="Nacionales", EVENTO 1
+http://38.7.101.90:8000/play/a1yo/index.m3u8
 
 #EXTINF:-1 tvg-id="44" tvg-name="ONPLUS" tvg-logo="https://i.ibb.co/F4S06nXd/ONPLUSS.png" group-title="Nacionales", Real Madrid vs Getafe 
 http://181.78.8.199:8000/play/a0b1/index.m3u8
@@ -439,5 +439,4 @@ https://cablered.iptvperu.tv:1936/cablered/natgeo_new/playlist.m3u8
 #EXTINF:-1 tvg-id="44" tvg-name="T13" tvg-logo="https://banner2.cleanpng.com/20181125/uaj/kisspng-logo-tve-internacional-la-1-rtve-tve-hd-5bfae49e01bb39.8822497515431691820071.jpg" group-title="Nacionales", TVE
 https://rtvelivestream.rtve.es/rtvesec/int/tvei_ame_main_dvr.m3u8
 
-#EXTINF:-1 group-title="BOLIVIA" tvg-name="UNITEL-SCZ",UNITEL-SCZ
-http://200.105.196.70:8000/play/a24v
+
