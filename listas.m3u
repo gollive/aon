@@ -427,4 +427,5 @@ https://cablered.iptvperu.tv:1936/cablered/natgeo_new/playlist.m3u8
 #EXTINF:-1 tvg-id="44" tvg-name="T13" tvg-logo="https://banner2.cleanpng.com/20181125/uaj/kisspng-logo-tve-internacional-la-1-rtve-tve-hd-5bfae49e01bb39.8822497515431691820071.jpg" group-title="Nacionales", TVE
 https://rtvelivestream.rtve.es/rtvesec/int/tvei_ame_main_dvr.m3u8
 
-
+#EXTINF:-1 tvg-id="44" tvg-name="HBO" tvg-logo="https://i.ibb.co/F4S06nXd/ONPLUSS.png" group-title="Nacionales", TNT Sports
+http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278540.m3u8
