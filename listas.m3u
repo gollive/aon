@@ -1,6 +1,7 @@
 #EXTM3U
 
-
+#EXTINF:-1 tvg-id="33" tvg-name="Vos HD" tvg-logo="https://i.ibb.co/n8DPgpFK/compose.jpg" group-title="Nacionales", EVENTO
+https://ssout.marsrivagg.click:443/espn5/index.m3u8?token=65f45ce568350e5ba2acebe63d3ac0d38881c70f-a7-1772704149-1772650149&ip=181.115.171.206
 
 
 #EXTINF:-1 tvg-id="33" tvg-name="Vos HD" tvg-logo="https://i.ibb.co/r2ZxLX9x/ATB.png" group-title="Nacionales", ATB 
@@ -199,6 +200,52 @@ https://59d39900ebfb8.streamlock.net:443/sigloxxi/sigloxxi/playlist.m3u8
 https://icecast.online/hls/imperial25/stream.m3u8
 
 
+#EXTINF:-1 tvg-id="44" tvg-name="CNN ESPAÑOL" tvg-logo="https://i.ibb.co/1G87bpMB/CNN.png" group-title="Nacionales", CNN ESPAÑOL
+https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist1080p.m3u8
+
+
+#EXTINF:-1 tvg-id="44" tvg-name=" DW"https://upload.wikimedia.org/wikipedia/commons/8/8e/DW_%28TV%29_Logo_2012.png" group-title="Nacionales", DW
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
+
+#EXTINF:-1 tvg-id="44" tvg-name=" DW"tvg-logo=https://i.ibb.co/Q7jSmDxD/RTVE.png" group-title="Nacionales", RTVE
+https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr_576.m3u8
+
+#EXTINF:-1 tvg-id="44" tvg-name="RT" tvg-logo="https://i.ibb.co/vxSj77t7/RTES.png" group-title="Nacionales", RT
+https://rt-esp.rttv.com/dvr/rtesp/playlist_800Kb.m3u8
+
+#EXTINF:-1 tvg-id="44" tvg-name="RT" tvg-logo="https://www.hispantv.com/Views/Assets/img/logo.png" group-title="Nacionales", HISPAN TV
+https://live.presstv.ir/hls/hispantv.m3u8
+
+
+#EXTINF:-1 tvg-id="44" tvg-name="RTVE" tvg-logo="https://i.ibb.co/2Ym0YmPY/CANAL24.png" group-title="Nacionales", RTVE
+https://ztnr.rtve.es/ztnr/1694255.m3u8
+
+
+
+#EXTINF:-1 tvg-id="44" tvg-name="BIO BIO" tvg-logo="https://www.biobiochile.cl/assets/img/bbtv_dm.png" group-title="Nacionales", BIO BIO
+https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/playlist.m3u8?did=
+
+
+
+
+#EXTINF:-1 tvg-id="44" tvg-name="TeleSur" tvg-logo="https://www.telesurtv.net/content/themes/telesur/dist/assets/img/only-logo.png" group-title="Nacionales", TeleSur
+https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-id="44" tvg-name="T13" tvg-logo="https://i.ibb.co/S7mkj78w/13.png" group-title="Nacionales", T13
+https://origin.dpsgo.com/ssai/event/3CNEz8LDSXGyWmOfV5YubQ/master.m3u8
+
+
+
+#EXTINF:-1 tvg-id="44" tvg-name="Canal 26" tvg-logo="https://cdn.rudo.video/assets/canal-13/live/logoApi_89a113ff9bbb5c995ba764e5eff431891742413042.png" group-title="Nacionales", Canal 26
+https://origin.dpsgo.com/ssai/event/8jd3krwvQv2Q3703Wacb-A/master.m3u8
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="44" tvg-name=" America Tv" tvg-logo="https://i.ibb.co/TM6hCDYV/AMERICA2.png" group-title="Nacionales", America Tv
 http://191.97.61.32:8000/play/a020/index.m3u8?hls
 
@@ -352,46 +399,7 @@ https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
 
 
 
-#EXTINF:-1 tvg-id="44" tvg-name="CNN ESPAÑOL" tvg-logo="https://i.ibb.co/1G87bpMB/CNN.png" group-title="Nacionales", CNN ESPAÑOL
-https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist1080p.m3u8
 
-
-#EXTINF:-1 tvg-id="44" tvg-name="DW" https://upload.wikimedia.org/wikipedia/commons/8/8e/DW_%28TV%29_Logo_2012.png" group-title="Nacionales", DW
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
-
-#EXTINF:-1 tvg-id="44" tvg-name="DW"https://i.ibb.co/Q7jSmDxD/RTVE.png" group-title="Nacionales", RTVE
-https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr_576.m3u8
-
-#EXTINF:-1 tvg-id="44" tvg-name="RT" tvg-logo="https://i.ibb.co/vxSj77t7/RTES.png" group-title="Nacionales", RT
-https://rt-esp.rttv.com/dvr/rtesp/playlist_800Kb.m3u8
-
-#EXTINF:-1 tvg-id="44" tvg-name="RT" tvg-logo="https://www.hispantv.com/Views/Assets/img/logo.png" group-title="Nacionales", HISPAN TV
-https://live.presstv.ir/hls/hispantv.m3u8
-
-
-#EXTINF:-1 tvg-id="44" tvg-name="RTVE" tvg-logo="https://i.ibb.co/2Ym0YmPY/CANAL24.png" group-title="Nacionales", RTVE
-https://ztnr.rtve.es/ztnr/1694255.m3u8
-
-
-
-#EXTINF:-1 tvg-id="44" tvg-name="BIO BIO" tvg-logo="https://www.biobiochile.cl/assets/img/bbtv_dm.png" group-title="Nacionales", BIO BIO
-https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/playlist.m3u8?did=
-
-
-
-
-#EXTINF:-1 tvg-id="44" tvg-name="TeleSur" tvg-logo="https://www.telesurtv.net/content/themes/telesur/dist/assets/img/only-logo.png" group-title="Nacionales", TeleSur
-https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
-
-
-
-#EXTINF:-1 tvg-id="44" tvg-name="T13" tvg-logo="https://i.ibb.co/S7mkj78w/13.png" group-title="Nacionales", T13
-https://origin.dpsgo.com/ssai/event/3CNEz8LDSXGyWmOfV5YubQ/master.m3u8
-
-
-
-#EXTINF:-1 tvg-id="44" tvg-name="Canal 26" tvg-logo="https://cdn.rudo.video/assets/canal-13/live/logoApi_89a113ff9bbb5c995ba764e5eff431891742413042.png" group-title="Nacionales", Canal 26
-https://origin.dpsgo.com/ssai/event/8jd3krwvQv2Q3703Wacb-A/master.m3u8
 
 
 
