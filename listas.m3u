@@ -429,3 +429,6 @@ https://rtvelivestream.rtve.es/rtvesec/int/tvei_ame_main_dvr.m3u8
 
 #EXTINF:-1 tvg-id="44" tvg-name="HBO" tvg-logo="https://i.ibb.co/F4S06nXd/ONPLUSS.png" group-title="Nacionales", TNT Sports
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278540.m3u8
+
+#EXTINF:-1 tvg-id="44" tvg-name="HBO" tvg-logo="https://i.ibb.co/wZcKvXXM/pngwing-com-17.png" group-title="Nacionales", The Simpsons
+http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/online-24-7.playlist.m3u8
