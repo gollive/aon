@@ -3,6 +3,8 @@
 #EXTINF:-1 tvg-id="33" tvg-name="Vos HD" tvg-logo="https://i.ibb.co/n8DPgpFK/compose.jpg" group-title="Nacionales", EVENTO
 https://ssout.marsrivagg.click:443/espn5/index.m3u8?token=7cf42ea5cc3eb72487597e8ccfeeb892d742387f-5c-1772706470-1772652470&ip=181.115.171.206
 
+#EXTINF:-1 tvg-id="33" tvg-name="Vos HD" tvg-logo="https://i.ibb.co/n8DPgpFK/compose.jpg" group-title="Nacionales", EVENTO 2
+https://tyg2mnl9.fubohd.com:443/disney12/mono.m3u8?token=4195a248592073597b7096b2d7efbe251eff4257-5-1772678954-1772660954
 
 #EXTINF:-1 tvg-id="33" tvg-name="Vos HD" tvg-logo="https://i.ibb.co/r2ZxLX9x/ATB.png" group-title="Nacionales", ATB 
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/ATB/__op/hls-default/__f/index.m3u8
