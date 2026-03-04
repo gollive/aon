@@ -198,7 +198,7 @@ https://icecast.online/hls/imperial25/stream.m3u8
 http://191.97.61.32:8000/play/a020/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="44" tvg-name=" America Tv" tvg-logo="https://i.ibb.co/TM6hCDYV/AMERICA2.png" group-title="Nacionales", America HD
-https://live-evg20.tv360.bitel.com.pe/bitel/America-UDP_abr/playlist.m3u8
+https://live-evg20.tv360.bitel.com.pe/bitel/America-UDP_abr/bitel/America-udp_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="44" tvg-name=" Latina" tvg-logo="https://i.ibb.co/21P9QNBL/LATINAOF.png" group-title="Nacionales", Latina
 https://jireh-1-hls-video-ar-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
