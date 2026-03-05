@@ -271,26 +271,45 @@ https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf7.m3u8
 #EXTINF:-1 tvg-id="44" tvg-name="ESPN" tvg-logo="https://i.ibb.co/NdNfkK0V/ESPN.png" group-title="Nacionales", ESPN
 http://181.115.237.3:9560/play/a02t/index.m3u8
 
+#EXTINF:-1 tvg-id="44" tvg-name="ESPN" tvg-logo="https://i.ibb.co/NdNfkK0V/ESPN.png" group-title="Nacionales", ESPN FHD
+https://cablered.iptvperu.tv:1936/cablered/espn_new/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="44" tvg-name="ESPN 2" tvg-logo="https://i.ibb.co/gZH3yb8K/ESPN2.png" group-title="Nacionales", ESPN 2
 http://181.118.158.103:8000/play/a039/index.m3u8?hls
 
-
+#EXTINF:-1 tvg-id="44" tvg-name="ESPN 2" tvg-logo="https://i.ibb.co/gZH3yb8K/ESPN2.png" group-title="Nacionales", ESPN 2 FHD
+https://cablered.iptvperu.tv:1936/cablered/espn2_new/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="44" tvg-name="ESPN 3" tvg-logo="https://i.ibb.co/JRrTsY98/ESPN3.png" group-title="Nacionales", ESPN 3
 http://181.118.158.103:8000/play/a03a/index.m3u8?hls
 
-
+#EXTINF:-1 tvg-id="44" tvg-name="ESPN 3" tvg-logo="https://i.ibb.co/JRrTsY98/ESPN3.png" group-title="Nacionales", ESPN 3 FHD
+https://cablered.iptvperu.tv:1936/cablered/espn3_new/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="44" tvg-name="ESPN 3" tvg-logo="https://i.ibb.co/8gMKZSQ1/ESPN-4-logo.png" group-title="Nacionales", ESPN 4
 http://168.205.55.2:8000/play/a01a/index.m3u8
 
+#EXTINF:-1 tvg-id="44" tvg-name="ESPN 3" tvg-logo="https://i.ibb.co/8gMKZSQ1/ESPN-4-logo.png" group-title="Nacionales", ESPN 4 FHD
+https://cablered.iptvperu.tv:1936/cablered/espn4_new/playlist.m3u8
 
 #EXTINF:-1 tvg-id="44" tvg-name="ESPN 3" tvg-logo="https://i.ibb.co/YYp4qy8/ESPN-5-logo.png" group-title="Nacionales", ESPN 5
 http://168.205.55.2:8000/play/a00h/index.m3u8
+
+
+#EXTINF:-1 tvg-id="44" tvg-name="ESPN 3" tvg-logo="https://i.ibb.co/YYp4qy8/ESPN-5-logo.png" group-title="Nacionales", ESPN 5 FHD
+https://cablered.iptvperu.tv:1936/cablered/espn5_new/playlist.m3u8
+
+#EXTINF:-1 tvg-id="44" tvg-name="ESPN 3" tvg-logo="https://i.ibb.co/Y7PvTWhk/ESPN-6-logo.png" group-title="Nacionales", ESPN 6 FHD
+https://cablered.iptvperu.tv:1936/cablered/espn6_new/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="44" tvg-name="ESPN 3" tvg-logo="https://i.ibb.co/ZRnP4zyd/ESPN-7-logo.png" group-title="Nacionales", ESPN 7 FHD
+https://cablered.iptvperu.tv:1936/cablered/espn7_new/playlist.m3u8
+
+
 
 
 
@@ -308,7 +327,7 @@ http://38.250.228.248:8000/play/a06m/index.m3u8
 
 
 #EXTINF:-1 tvg-id="44" tvg-name="ESPN 3" tvg-logo="https://i.ibb.co/gZDz0Bvf/TNT-Sports-Premium-Argentina.png" group-title="Nacionales", TNT Sports Premium
-http://38.250.228.248:8000/play/a04r/index.m3u8
+http://38.250.228.248:8000/play/a04r/index.m3u8?hls
 
 
 
@@ -461,6 +480,25 @@ https://cablered.iptvperu.tv:1936/cablered/cinecanal_new/playlist.m3u8
 #EXTINF:-1 tvg-id="44" tvg-name="HBO" tvg-logo="https://i.ibb.co/ks320S7S/thumbnail.png" group-title="Nacionales", Sony Cine
 https://a-cdn.klowdtv.com:443/803B48A/a-klowdtv.com/live1/cine_720p/playlist.m3u8
 
+
+#EXTINF:-1 tvg-id="44" tvg-name="HBO" tvg-logo="https://i.ibb.co/60DNxgNw/Star-Channel.png" group-title="Nacionales", STAR Channel
+https://cablered.iptvperu.tv:1936/cablered/starchannel_new/playlist.m3u8
+
+#EXTINF:-1 tvg-id="44" tvg-name="HBO" tvg-logo="https://i.ibb.co/394VjQRG/FX-International-logo.png" group-title="Nacionales", FX
+https://cablered.iptvperu.tv:1936/cablered/fx_new/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="44" tvg-name="HBO" tvg-logo="https://i.ibb.co/394VjQRG/FX-International-logo.png" group-title="Nacionales", CineCanal
+https://cablered.iptvperu.tv:1936/cablered/cinecanal_new/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="44" tvg-name="HBO" tvg-logo="https://i.ibb.co/394VjQRG/FX-International-logo.png" group-title="Nacionales", CineCanal
+https://cablered.iptvperu.tv:1936/cablered/cinecanal_new/playlist.m3u8
+
+
+
+
+
 #EXTINF:-1 tvg-id="44" tvg-name="T13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" group-title="Nacionales", TCM
 https://cablered.iptvperu.tv:1936/cablered/TCM/playlist.m3u8
 
@@ -488,17 +526,21 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/nick.stream/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="44" tvg-name="HBO" tvg-logo="https://i.ibb.co/ycLxpRFh/2002-Disney-Channel-logo-svg.png" group-title="Nacionales",Disney Channel
-https://cablered.iptvperu.tv:1936/transcoder/dreamworks_t2.stream/playlist.m3u8
+https://cablered.iptvperu.tv:1936/cablered/disneychannel_new/playlist.m3u8
+
+
 
 #EXTINF:-1 tvg-id="44" tvg-name="HBO" tvg-logo="https://i.ibb.co/0yGDvXj3/2024-Disney-Jr-Logo-svg.png" group-title="Nacionales",Disney Jr
-https://cablered.iptvperu.tv:1936/cablered/bitme-srt_new/playlist.m3u8
+https://cablered.iptvperu.tv:1936/cablered/disneyjunior_new/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="44" tvg-name="HBO" tvg-logo="https://i.ibb.co/1GBcpZBM/Discovery-kids-logo.png" group-title="Nacionales",Discovery Kids
-http://38.250.228.248:8000/play/a036/index.m3u8
+https://cablered.iptvperu.tv:1936/cablered/discoverykids_new/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="44" tvg-name="HBO" tvg-logo="" group-title="Nacionales",Cartoonito
+#EXTINF:-1 tvg-id="44" tvg-name="HBO" tvg-logo="https://i.ibb.co/PG4GBqKF/Cartoonito-Logo-2021.png" group-title="Nacionales",Cartoonito
 https://cablered.iptvperu.tv:1936/cablered/Cartoonito/playlist.m3u8
 
+#EXTINF:-1 tvg-id="44" tvg-name="HBO" tvg-logo="https://i.ibb.co/FqcfvfRJ/cf8200990abc35436562000d7896b335.png" group-title="Nacionales",Dreamworks
+https://cablered.iptvperu.tv:1936/transcoder/dreamworks_t2.stream/playlist.m3u8
