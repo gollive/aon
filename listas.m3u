@@ -331,10 +331,11 @@ http://38.250.228.248:8000/play/a04r/index.m3u8?hls
 
 
 
-#EXTINF:-1 tvg-id="44" tvg-name="Liga 1 Max" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/Liga1_%28Per%C3%BA%29_logo.png" group-title="Nacionales", Liga 1 Max 
+#EXTINF:-1 tvg-id="44" tvg-name="Liga 1 Max" tvg-logo="https://i.ibb.co/nqYJttxQ/L1-MAX-LOGO.png" group-title="Nacionales", Liga 1 Max 
 http://38.187.2.124:8000/play/a067/index.m3u8?hls
 
-
+#EXTINF:-1 tvg-id="44" tvg-name="Liga 1 Max" tvg-logo="https://i.ibb.co/nqYJttxQ/L1-MAX-LOGO.png" group-title="Nacionales", Liga 1 Max 
+http://cabletacna.iptvperu.tv:8001/play/ligamax1
 
 #EXTINF:-1 tvg-id="44" tvg-name="Liga 1 Max" tvg-logo="https://i.ibb.co/27HfQdfM/descarga.png" group-title="Nacionales", Win Sports 
 http://104.194.8.54:9090/279400_.m3u8
