@@ -542,5 +542,11 @@ https://cablered.iptvperu.tv:1936/cablered/discoverykids_new/playlist.m3u8
 #EXTINF:-1 tvg-id="44" tvg-name="HBO" tvg-logo="https://i.ibb.co/PG4GBqKF/Cartoonito-Logo-2021.png" group-title="Nacionales",Cartoonito
 https://cablered.iptvperu.tv:1936/cablered/Cartoonito/playlist.m3u8
 
+
 #EXTINF:-1 tvg-id="44" tvg-name="HBO" tvg-logo="https://i.ibb.co/FqcfvfRJ/cf8200990abc35436562000d7896b335.png" group-title="Nacionales",Dreamworks
 https://cablered.iptvperu.tv:1936/transcoder/dreamworks_t2.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="44" tvg-name="HBO" tvg-logo="https://i.ibb.co/gbgbB3qf/Cartoon-network-modified-logo.png" group-title="Nacionales", Cartoonnetwork
+https://cablered.iptvperu.tv:1936/cablered/cartoonnetwork_new/playlist.m3u8
+
+
