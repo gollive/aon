@@ -426,10 +426,8 @@ https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
 #EXTINF:-1 tvg-id="44" tvg-name="SPACE" tvg-logo="https://i.ibb.co/5WthgwGc/SPACE.png" group-title="Nacionales", SPACE
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/space.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="44" tvg-name="SPACE" tvg-logo="https://i.ibb.co/5WthgwGc/SPACE.png" group-title="Nacionales", SPACE 2
-http://38.250.228.248:8000/play/a05r/index.m3u8
 
-#EXTINF:-1 tvg-id="44" tvg-name="SPACE" tvg-logo="https://i.ibb.co/5WthgwGc/SPACE.png" group-title="Nacionales", SPACE 3
+#EXTINF:-1 tvg-id="44" tvg-name="SPACE" tvg-logo="https://i.ibb.co/5WthgwGc/SPACE.png" group-title="Nacionales", SPACE 2
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278515.m3u8
 
 
