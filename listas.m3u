@@ -289,10 +289,11 @@ http://190.7.19.197:232/play/a04w/index.m3u8
 
 
 #EXTINF:-1 tvg-id="44" tvg-name="Liga 1 Max" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/Liga1_%28Per%C3%BA%29_logo.png" group-title="Nacionales", Liga 1 Max
+http://138.204.12.14:40000/play/a0qt/index.m3u8
+
+
+#EXTINF:-1 tvg-id="44" tvg-name="Liga 1 Max" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/Liga1_%28Per%C3%BA%29_logo.png" group-title="Nacionales", Win Sports +
 http://38.187.2.124:8000/play/a067/index.m3u8?hls
-
-
-
 
 
 #EXTINF:-1 tvg-id="44" tvg-name="TL Novelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png" group-title="Nacionales", TL Novelas
