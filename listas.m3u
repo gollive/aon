@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="33" tvg-name="Vos HD" tvg-logo="https://i.ibb.co/Pz04Dyh3/portada-de-vs-2023.png" group-title="Nacionales", EVENTO
+#EXTINF:-1 tvg-id="33" tvg-name="Vos HD" tvg-logo="https://i.ibb.co/VYbDjZ6z/DR.png" group-title="Nacionales", EVENTO
 https://cablered.iptvperu.tv:1936/cablered/espn3_new/playlist.m3u8
 
 
