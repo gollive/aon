@@ -232,7 +232,8 @@ https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
 #EXTINF:-1 tvg-id="44" tvg-name="T13" tvg-logo="https://i.ibb.co/S7mkj78w/13.png" group-title="Nacionales", T13
 https://origin.dpsgo.com/ssai/event/3CNEz8LDSXGyWmOfV5YubQ/master.m3u8
 
-
+#EXTINF:-1 tvg-id="44" tvg-name="T13" tvg-logo="https://banner2.cleanpng.com/20181125/uaj/kisspng-logo-tve-internacional-la-1-rtve-tve-hd-5bfae49e01bb39.8822497515431691820071.jpg" group-title="Nacionales", TVE
+https://rtvelivestream.rtve.es/rtvesec/int/tvei_ame_main_dvr.m3u8
 
 #EXTINF:-1 tvg-id="44" tvg-name="Canal 26" tvg-logo="https://cdn.rudo.video/assets/canal-13/live/logoApi_89a113ff9bbb5c995ba764e5eff431891742413042.png" group-title="Nacionales", Canal 26
 https://origin.dpsgo.com/ssai/event/8jd3krwvQv2Q3703Wacb-A/master.m3u8
@@ -302,10 +303,12 @@ http://38.190.101.128:2233/play/a1ey/index.m3u8
 #EXTINF:-1 tvg-id="44" tvg-name="ESPN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" group-title="Nacionales", DSPORTS OPC3
 http://190.108.89.228:8000/play/a05w/index.m3u8
 
-#EXTINF:-1 tvg-id="44" tvg-name="ESPN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/TyCSp.png" group-title="Nacionales", tyc sports
+#EXTINF:-1 tvg-id="44" tvg-name="ESPN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/TyCSp.png" group-title="Nacionales", TYC sports
 http://38.250.228.248:8000/play/a06m/index.m3u8
 
 
+#EXTINF:-1 tvg-id="44" tvg-name="ESPN 3" tvg-logo="https://i.ibb.co/gZDz0Bvf/TNT-Sports-Premium-Argentina.png" group-title="Nacionales", TNT Sports Premium
+http://38.250.228.248:8000/play/a04r/index.m3u8
 
 
 
@@ -327,9 +330,6 @@ https://cablered.iptvperu.tv:1936/cablered/tlnovelas-srt_new/playlist.m3u8
 
 
 
-
-#EXTINF:-1 tvg-id="44" tvg-name="SPACE" tvg-logo="https://i.ibb.co/5WthgwGc/SPACE.png" group-title="Nacionales", SPACE
-http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278515.m3u8
 
 
 
@@ -422,6 +422,11 @@ https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
 
 
 
+#EXTINF:-1 tvg-id="44" tvg-name="SPACE" tvg-logo="https://i.ibb.co/5WthgwGc/SPACE.png" group-title="Nacionales", SPACE
+http://38.250.228.248:8000/play/a05r/index.m3u8
+
+#EXTINF:-1 tvg-id="44" tvg-name="SPACE" tvg-logo="https://i.ibb.co/5WthgwGc/SPACE.png" group-title="Nacionales", SPACE OPC2
+http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278515.m3u8
 
 
 
@@ -471,11 +476,24 @@ https://cablered.iptvperu.tv:1936/cablered/discoveryhd_new/playlist.m3u8
 #EXTINF:-1 tvg-id="44" tvg-name="HBO" tvg-logo="https://i.ibb.co/F4S06nXd/ONPLUSS.png" group-title="Nacionales", Natgeo
 https://cablered.iptvperu.tv:1936/cablered/natgeo_new/playlist.m3u8
 
-#EXTINF:-1 tvg-id="44" tvg-name="T13" tvg-logo="https://banner2.cleanpng.com/20181125/uaj/kisspng-logo-tve-internacional-la-1-rtve-tve-hd-5bfae49e01bb39.8822497515431691820071.jpg" group-title="Nacionales", TVE
-https://rtvelivestream.rtve.es/rtvesec/int/tvei_ame_main_dvr.m3u8
 
-#EXTINF:-1 tvg-id="44" tvg-name="HBO" tvg-logo="https://i.ibb.co/F4S06nXd/ONPLUSS.png" group-title="Nacionales", TNT Sports
-http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278540.m3u8
 
-#EXTINF:-1 tvg-id="44" tvg-name="HBO" tvg-logo="https://i.ibb.co/wZcKvXXM/pngwing-com-17.png" group-title="Nacionales", The Simpsons
-http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/online-24-7.playlist.m3u8
+#EXTINF:-1 tvg-id="44" tvg-name="HBO" tvg-logo="https://i.ibb.co/YFQMPfjn/Nick-Jr-logo-2023.png" group-title="Nacionales", Nick Jr
+http://38.250.228.248:8000/play/a03f/index.m3u8
+
+#EXTINF:-1 tvg-id="44" tvg-name="HBO" tvg-logo="https://i.ibb.co/xtHQ5CJX/Nickelodeon-2023-logo.png" group-title="Nacionales",Nickelodeon 
+http://38.250.228.248:8000/play/a04v/index.m3u8
+
+#EXTINF:-1 tvg-id="44" tvg-name="HBO" tvg-logo="https://i.ibb.co/ycLxpRFh/2002-Disney-Channel-logo-svg.png" group-title="Nacionales",Disney Channel
+http://38.250.228.248:8000/play/a03d/index.m3u8
+
+#EXTINF:-1 tvg-id="44" tvg-name="HBO" tvg-logo="https://i.ibb.co/0yGDvXj3/2024-Disney-Jr-Logo-svg.png" group-title="Nacionales",Disney Jr
+http://38.250.228.248:8000/play/a03d/index.m3u8
+
+
+#EXTINF:-1 tvg-id="44" tvg-name="HBO" tvg-logo="https://i.ibb.co/1GBcpZBM/Discovery-kids-logo.png" group-title="Nacionales",Discovery Kids
+http://38.250.228.248:8000/play/a036/index.m3u8
+
+
+
+
