@@ -512,7 +512,7 @@ https://cablered.iptvperu.tv:1936/cablered/starchannel_new/playlist.m3u8
 https://cablered.iptvperu.tv:1936/cablered/fx_new/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="44" tvg-name="HBO" tvg-logo="https://i.ibb.co/394VjQRG/FX-International-logo.png" group-title="Nacionales", CineCanal
+#EXTINF:-1 tvg-id="44" tvg-name="HBO" tvg-logo="https://i.ibb.co/GQQByC6V/Cinecanal-LA.png" group-title="Nacionales", CineCanal
 https://cablered.iptvperu.tv:1936/cablered/cinecanal_new/playlist.m3u8
 
 
