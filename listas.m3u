@@ -424,6 +424,8 @@ https://cablered.iptvperu.tv:1936/transcoder/universal_t3.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="44" tvg-name="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="Nacionales", Cinecanal
 https://cablered.iptvperu.tv:1936/cablered/cinecanal_new/playlist.m3u8
 
+#EXTINF:-1 tvg-id="44" tvg-name="HBO" tvg-logo="https://i.ibb.co/ks320S7S/thumbnail.png" group-title="Nacionales", Sony Cine
+https://a-cdn.klowdtv.com:443/803B48A/a-klowdtv.com/live1/cine_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="44" tvg-name="T13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" group-title="Nacionales", TCM
 https://cablered.iptvperu.tv:1936/cablered/TCM/playlist.m3u8
