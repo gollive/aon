@@ -329,9 +329,12 @@ http://138.204.12.14:40000/play/a0qt/index.m3u8
 https://cablered.iptvperu.tv:1936/cablered/tlnovelas-srt_new/playlist.m3u8
 
 
+#EXTINF:-1 tvg-id="44" tvg-name="TL Novelas" tvg-logo="https://i.ibb.co/Gv43nVmp/Las-Estrellas-Logo.png" group-title="Nacionales", Las Estrellas
+https://cablered.iptvperu.tv:1936/cablered/las-estrellas_new/playlist.m3u8
 
 
-
+#EXTINF:-1 tvg-id="44" tvg-name="TL Novelas" tvg-logo="https://i.ibb.co/0p420yTM/images.png" group-title="Nacionales", Univision
+https://cablered.iptvperu.tv:1936/cablered/univision-srt_new/playlist.m3u8
 
 
 
@@ -420,12 +423,13 @@ https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
 
 
 
-
-
 #EXTINF:-1 tvg-id="44" tvg-name="SPACE" tvg-logo="https://i.ibb.co/5WthgwGc/SPACE.png" group-title="Nacionales", SPACE
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/space.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="44" tvg-name="SPACE" tvg-logo="https://i.ibb.co/5WthgwGc/SPACE.png" group-title="Nacionales", SPACE 2
 http://38.250.228.248:8000/play/a05r/index.m3u8
 
-#EXTINF:-1 tvg-id="44" tvg-name="SPACE" tvg-logo="https://i.ibb.co/5WthgwGc/SPACE.png" group-title="Nacionales", SPACE OPC2
+#EXTINF:-1 tvg-id="44" tvg-name="SPACE" tvg-logo="https://i.ibb.co/5WthgwGc/SPACE.png" group-title="Nacionales", SPACE 3
 http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278515.m3u8
 
 
@@ -479,16 +483,17 @@ https://cablered.iptvperu.tv:1936/cablered/natgeo_new/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="44" tvg-name="HBO" tvg-logo="https://i.ibb.co/YFQMPfjn/Nick-Jr-logo-2023.png" group-title="Nacionales", Nick Jr
-http://38.250.228.248:8000/play/a03f/index.m3u8
+https://cablered.iptvperu.tv:1936/transcoder/plim_plim_t6.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="44" tvg-name="HBO" tvg-logo="https://i.ibb.co/xtHQ5CJX/Nickelodeon-2023-logo.png" group-title="Nacionales",Nickelodeon 
-http://38.250.228.248:8000/play/a04v/index.m3u8
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/nick.stream/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="44" tvg-name="HBO" tvg-logo="https://i.ibb.co/ycLxpRFh/2002-Disney-Channel-logo-svg.png" group-title="Nacionales",Disney Channel
-http://38.250.228.248:8000/play/a03d/index.m3u8
+https://cablered.iptvperu.tv:1936/transcoder/dreamworks_t2.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="44" tvg-name="HBO" tvg-logo="https://i.ibb.co/0yGDvXj3/2024-Disney-Jr-Logo-svg.png" group-title="Nacionales",Disney Jr
-http://38.250.228.248:8000/play/a03d/index.m3u8
+https://cablered.iptvperu.tv:1936/cablered/bitme-srt_new/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="44" tvg-name="HBO" tvg-logo="https://i.ibb.co/1GBcpZBM/Discovery-kids-logo.png" group-title="Nacionales",Discovery Kids
@@ -496,4 +501,6 @@ http://38.250.228.248:8000/play/a036/index.m3u8
 
 
 
+#EXTINF:-1 tvg-id="44" tvg-name="HBO" tvg-logo="" group-title="Nacionales",Cartoonito
+https://cablered.iptvperu.tv:1936/cablered/Cartoonito/playlist.m3u8
 
