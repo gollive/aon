@@ -525,7 +525,8 @@ https://cablered.iptvperu.tv:1936/cablered/fx_new/playlist.m3u8
 #EXTINF:-1 tvg-id="44" tvg-name="HBO" tvg-logo="https://i.ibb.co/GQQByC6V/Cinecanal-LA.png" group-title="Nacionales", CineCanal
 https://cablered.iptvperu.tv:1936/cablered/cinecanal_new/playlist.m3u8
 
-
+#EXTINF:-1 tvg-id="278468" tvg-name="CINEMAX HD (MX)(P)" tvg-logo="https://i.ibb.co/MkwQGxVc/Cinemax-2011-Alternative.png" group-title="Latinos",CINEMAX HD 
+http://live.btv.mx:2424/stream/278468/smAVz_uhytj5REM-4pYNZbkrcB2
 
 
 
