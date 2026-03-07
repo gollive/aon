@@ -353,6 +353,12 @@ http://live.btv.mx:2424/stream/299307/smAVz_uhytj5REM-4pYNZbkrcB2
 #EXTINF:-1 tvg-id="44" tvg-name="Liga 1 Max" tvg-logo="https://i.ibb.co/hFw5XPXh/Win-Sports-logo.png" group-title="Nacionales", Win Sports +
 http://live.btv.mx:2424/stream/299308/smAVz_uhytj5REM-4pYNZbkrcB2
 
+#EXTINF:-1 tvg-id="44" tvg-name="Liga 1 Max" tvg-logo="https://i.ibb.co/7JRF3X6v/Tigo-Sports-2025.png" group-title="Nacionales", Tigo Sports PY
+http://live.btv.mx:2424/stream/279308/smAVz_uhytj5REM-4pYNZbkrcB2
+
+#EXTINF:-1 tvg-id="44" tvg-name="Liga 1 Max" tvg-logo="https://i.ibb.co/7JRF3X6v/Tigo-Sports-2025.png" group-title="Nacionales", Tigo Sports CR
+http://live.btv.mx:2424/stream/279380/smAVz_uhytj5REM-4pYNZbkrcB2
+
 
 #EXTINF:-1 tvg-id="44" tvg-name="TL Novelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png" group-title="Nacionales", TL Novelas
 https://cablered.iptvperu.tv:1936/cablered/tlnovelas-srt_new/playlist.m3u8
@@ -544,7 +550,7 @@ https://cablered.iptvperu.tv:1936/cablered/natgeo_new/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="44" tvg-name="HBO" tvg-logo="https://i.ibb.co/YFQMPfjn/Nick-Jr-logo-2023.png" group-title="Nacionales", Nick Jr
-https://cablered.iptvperu.tv:1936/transcoder/plim_plim_t6.stream/playlist.m3u8
+http://live.btv.mx:2424/stream/278546/smAVz_uhytj5REM-4pYNZbkrcB2
 
 #EXTINF:-1 tvg-id="44" tvg-name="HBO" tvg-logo="https://i.ibb.co/xtHQ5CJX/Nickelodeon-2023-logo.png" group-title="Nacionales",Nickelodeon 
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/nick.stream/playlist.m3u8
