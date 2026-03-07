@@ -359,6 +359,18 @@ http://live.btv.mx:2424/stream/279308/smAVz_uhytj5REM-4pYNZbkrcB2
 #EXTINF:-1 tvg-id="44" tvg-name="Liga 1 Max" tvg-logo="https://i.ibb.co/7JRF3X6v/Tigo-Sports-2025.png" group-title="Nacionales", Tigo Sports CR
 http://live.btv.mx:2424/stream/279380/smAVz_uhytj5REM-4pYNZbkrcB2
 
+#EXTINF:-1 tvg-id="166558" tvg-name="Azteca 7 FHD (i)" tvg-logo="https://i.ibb.co/ymRQLF3C/Logo-de-Azteca-7-2024-cropped.png" group-title="Latinos",Azteca 7 FHD 
+http://live.btv.mx:2424/stream/166558/smAVz_uhytj5REM-4pYNZbkrcB2
+
+#EXTINF:-1 tvg-id="311878" tvg-name="MX  | FOX ONE 1 P" tvg-logo="https://i.ibb.co/R4MwGf2K/Fox-One-2025.png" group-title="Deportes",MX  | FOX ONE 1 P
+http://live.btv.mx:2424/stream/311878/smAVz_uhytj5REM-4pYNZbkrcB2
+
+#EXTINF:-1 tvg-id="311110" tvg-name="TUDN USA HD P" tvg-logo="https://i.ibb.co/HLHbbC1n/TUDN-Logo.png" group-title="Eventos Del Dia",TUDN USA HD P
+http://live.btv.mx:2424/stream/311110/smAVz_uhytj5REM-4pYNZbkrcB2
+
+#EXTINF:-1 tvg-id="158776" tvg-name="Univision Seattle HD (i)" tvg-logo="https://i.ibb.co/PvYJTFtK/Logo-nmas.png" group-title="Estados Unidos",Univision Seattle HD 
+http://live.btv.mx:2424/stream/158776/smAVz_uhytj5REM-4pYNZbkrcB2
+
 
 #EXTINF:-1 tvg-id="44" tvg-name="TL Novelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png" group-title="Nacionales", TL Novelas
 https://cablered.iptvperu.tv:1936/cablered/tlnovelas-srt_new/playlist.m3u8
