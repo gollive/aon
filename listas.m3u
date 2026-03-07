@@ -361,6 +361,9 @@ http://live.btv.mx:2424/stream/279308/smAVz_uhytj5REM-4pYNZbkrcB2
 #EXTINF:-1 tvg-id="44" tvg-name="Liga 1 Max" tvg-logo="https://i.ibb.co/7JRF3X6v/Tigo-Sports-2025.png" group-title="Nacionales", Tigo Sports CR
 http://live.btv.mx:2424/stream/279380/smAVz_uhytj5REM-4pYNZbkrcB2
 
+#EXTINF:-1 tvg-id="44" tvg-name="Liga 1 Max" tvg-logo="https://i.ibb.co/7JRF3X6v/Tigo-Sports-2025.png" group-title="Nacionales", Tigo Sports 
+http://ultrax.online:8080/993683186tv1/2okdik1/61975
+
 #EXTINF:-1 tvg-id="166558" tvg-name="Azteca 7 FHD (i)" tvg-logo="https://i.ibb.co/ymRQLF3C/Logo-de-Azteca-7-2024-cropped.png" group-title="Latinos",Azteca 7 FHD 
 http://live.btv.mx:2424/stream/166558/smAVz_uhytj5REM-4pYNZbkrcB2
 
