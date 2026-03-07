@@ -329,33 +329,31 @@ http://live.btv.mx:2424/stream/278768/smAVz_uhytj5REM-4pYNZbkrcB2
 #EXTINF:-1 tvg-id="44" tvg-name="ESPN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" group-title="Nacionales", DSPORTS
 http://104.238.205.28:9090/278758_.m3u8
 
-#EXTINF:-1 tvg-id="44" tvg-name="ESPN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" group-title="Nacionales", DSPORTS OPC2
-http://38.190.101.128:2233/play/a1ey/index.m3u8
 
-#EXTINF:-1 tvg-id="44" tvg-name="ESPN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" group-title="Nacionales", DSPORTS OPC3
-http://190.108.89.228:8000/play/a05w/index.m3u8
 
 #EXTINF:-1 tvg-id="44" tvg-name="ESPN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/TyCSp.png" group-title="Nacionales", TYC sports
-http://38.250.228.248:8000/play/a06m/index.m3u8
+http://live.btv.mx:2424/stream/278779/smAVz_uhytj5REM-4pYNZbkrcB2
 
+#EXTINF:-1 tvg-id="44" tvg-name="ESPN 3" tvg-logo="https://i.ibb.co/5xYtHTHv/TNT-Sports-2023.png" group-title="Nacionales", TNT Sports CH
+http://live.btv.mx:2424/stream/278990/smAVz_uhytj5REM-4pYNZbkrcB2
 
-#EXTINF:-1 tvg-id="44" tvg-name="ESPN 3" tvg-logo="https://i.ibb.co/gZDz0Bvf/TNT-Sports-Premium-Argentina.png" group-title="Nacionales", TNT Sports Premium
-http://38.250.228.248:8000/play/a04r/index.m3u8?hls
+#EXTINF:-1 tvg-id="44" tvg-name="ESPN 3" tvg-logo="https://i.ibb.co/gZDz0Bvf/TNT-Sports-Premium-Argentina.png" group-title="Nacionales", TNT Sports Premium AR
+http://live.btv.mx:2424/stream/278990/smAVz_uhytj5REM-4pYNZbkrcB2
 
+#EXTINF:-1 tvg-id="44" tvg-name="Liga 1 Max" tvg-logo="https://i.ibb.co/nqYJttxQ/L1-MAX-LOGO.png" group-title="Nacionales", Liga 1 Max 
+http://live.btv.mx:2424/stream/278898/smAVz_uhytj5REM-4pYNZbkrcB2
 
 
 #EXTINF:-1 tvg-id="44" tvg-name="Liga 1 Max" tvg-logo="https://i.ibb.co/nqYJttxQ/L1-MAX-LOGO.png" group-title="Nacionales", Liga 1 Max 
 http://38.187.2.124:8000/play/a067/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="44" tvg-name="Liga 1 Max" tvg-logo="https://i.ibb.co/nqYJttxQ/L1-MAX-LOGO.png" group-title="Nacionales", Liga 1 Max 
-http://cabletacna.iptvperu.tv:8001/play/ligamax1
 
 #EXTINF:-1 tvg-id="44" tvg-name="Liga 1 Max" tvg-logo="https://i.ibb.co/27HfQdfM/descarga.png" group-title="Nacionales", Win Sports 
-http://104.194.8.54:9090/279400_.m3u8
+http://live.btv.mx:2424/stream/299307/smAVz_uhytj5REM-4pYNZbkrcB2
 
 
 #EXTINF:-1 tvg-id="44" tvg-name="Liga 1 Max" tvg-logo="https://i.ibb.co/hFw5XPXh/Win-Sports-logo.png" group-title="Nacionales", Win Sports +
-http://138.204.12.14:40000/play/a0qt/index.m3u8
+http://live.btv.mx:2424/stream/299308/smAVz_uhytj5REM-4pYNZbkrcB2
 
 
 #EXTINF:-1 tvg-id="44" tvg-name="TL Novelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png" group-title="Nacionales", TL Novelas
