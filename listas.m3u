@@ -10,8 +10,7 @@ https://stv2.boliviaplay.com.bo/hls/0/stream.m3u8
 
 
 
-#EXTINF:-1 tvg-id="38" tvg-name="Bolivision SC" tvg-logo="https://i.ibb.co/PZ1ctHG6/BOLIVISIONOF.png" group-title="Nacionales", Bol
-href="go:BOLLP"
+
 
 #EXTINF:-1 tvg-id="38" tvg-name="Bolivision SC" tvg-logo="https://i.ibb.co/PZ1ctHG6/BOLIVISIONOF.png" group-title="Nacionales", Bolivision SC
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/BOLIVISION/__op/hls-default/__f/index.m3u8
