@@ -1,8 +1,6 @@
 #EXTM3U
 
 
-
-
 #EXTINF:-1 tvg-id="33" tvg-name="Vos HD" tvg-logo="https://i.ibb.co/r2ZxLX9x/ATB.png" group-title="Nacionales", ATB 
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/ATB/__op/hls-default/__f/index.m3u8
 
@@ -273,24 +271,24 @@ https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf7.m3u8
 
 
 
-#EXTINF:-1 tvg-id="44" tvg-name="ESPN" tvg-logo="https://i.ibb.co/NdNfkK0V/ESPN.png" group-title="Nacionales", ESPN
+#EXTINF:-1 tvg-id="44" tvg-name="ESPN" tvg-logo="https://i.ibb.co/q3FdvWk5/ESPN-logos.png" group-title="Nacionales", ESPN
 http://181.115.237.3:9560/play/a02t/index.m3u8
 
-#EXTINF:-1 tvg-id="44" tvg-name="ESPN" tvg-logo="https://i.ibb.co/NdNfkK0V/ESPN.png" group-title="Nacionales", ESPN FHD
+#EXTINF:-1 tvg-id="44" tvg-name="ESPN" tvg-logo="https://i.ibb.co/q3FdvWk5/ESPN-logos.png" group-title="Nacionales", ESPN FHD
 https://cablered.iptvperu.tv:1936/cablered/espn_new/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="44" tvg-name="ESPN 2" tvg-logo="https://i.ibb.co/gZH3yb8K/ESPN2.png" group-title="Nacionales", ESPN 2
+#EXTINF:-1 tvg-id="44" tvg-name="ESPN 2" tvg-logo="https://i.ibb.co/7NWrzLgS/ESPN2-logo.png" group-title="Nacionales", ESPN 2
 http://181.118.158.103:8000/play/a039/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="44" tvg-name="ESPN 2" tvg-logo="https://i.ibb.co/gZH3yb8K/ESPN2.png" group-title="Nacionales", ESPN 2 FHD
+#EXTINF:-1 tvg-id="44" tvg-name="ESPN 2" tvg-logo="https://i.ibb.co/7NWrzLgS/ESPN2-logo.png" group-title="Nacionales", ESPN 2 FHD
 https://cablered.iptvperu.tv:1936/cablered/espn2_new/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="44" tvg-name="ESPN 3" tvg-logo="https://i.ibb.co/JRrTsY98/ESPN3.png" group-title="Nacionales", ESPN 3
+#EXTINF:-1 tvg-id="44" tvg-name="ESPN 3" tvg-logo="https://i.ibb.co/BHgrD6V2/ESPN3-logo.png" group-title="Nacionales", ESPN 3
 http://181.118.158.103:8000/play/a03a/index.m3u8?hls
 
-#EXTINF:-1 tvg-id="44" tvg-name="ESPN 3" tvg-logo="https://i.ibb.co/JRrTsY98/ESPN3.png" group-title="Nacionales", ESPN 3 FHD
+#EXTINF:-1 tvg-id="44" tvg-name="ESPN 3" tvg-logo="https://i.ibb.co/BHgrD6V2/ESPN3-logo.png" group-title="Nacionales", ESPN 3 FHD
 https://cablered.iptvperu.tv:1936/cablered/espn3_new/playlist.m3u8
 
 
