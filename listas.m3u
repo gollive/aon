@@ -1,19 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="33" tvg-name="Vos HD" tvg-logo="https://i.ibb.co/zWGwgNgP/SE-AL-EN-VIVO.jpg" group-title="Nacionales", EVENTO
-https://customer-x9x713o5ejqop2z8.cloudflarestream.com/5a6c078ad7e0a29abc78ffe26b91f06a/manifest/video.m3u8
+https://3.ftvhd.com:443/even1/mono.m3u8?token=04ccdebe8e8d577f491ce38d8e231611247aad69-47-1773025276-1773007276
 
 #EXTINF:-1 tvg-id="33" tvg-name="Vos HD" tvg-logo="https://i.ibb.co/zWGwgNgP/SE-AL-EN-VIVO.jpg" group-title="Nacionales", EVENTO
 http://181.78.73.64:8000/play/a1vl/index.m3u8
-#EXTINF:-1 tvg-id="33" tvg-name="Vos HD" tvg-logo="https://i.ibb.co/zWGwgNgP/SE-AL-EN-VIVO.jpg" group-title="Nacionales", EVENTO 2
-https://customer-x9x713o5ejqop2z8.cloudflarestream.com/5a6c078ad7e0a29abc78ffe26b91f06a/manifest/video.m3u8
-
-#EXTINF:-1 tvg-id="33" tvg-name="Vos HD" tvg-logo="https://i.ibb.co/zWGwgNgP/SE-AL-EN-VIVO.jpg" group-title="Nacionales", EVENTO 3
-https://4.ftvhd.com:443/even1/mono.m3u8?token=0e2ed3d5a01c1df2799345daafb3f87dfc13eab2-be-1773025230-1773007230
-
-#EXTINF:-1 tvg-id="33" tvg-name="Vos HD" tvg-logo="https://i.ibb.co/zWGwgNgP/SE-AL-EN-VIVO.jpg" group-title="Nacionales", EVENTO 4
-https://4.ftvhd.com:443/even1/mono.m3u8?token=0e2ed3d5a01c1df2799345daafb3f87dfc13eab2-be-1773025230-1773007230
-#EXTINF:-1 tvg-id="33" tvg-name="Vos HD" tvg-logo="https://i.ibb.co/zWGwgNgP/SE-AL-EN-VIVO.jpg" group-title="Nacionales", EVENTO 5
-https://3.ftvhd.com:443/even1/mono.m3u8?token=bd3b1ab7a50de3551b98f7fed991aa80906d7749-93-1773020489-1773002489
 
 
 #EXTINF:-1 tvg-id="33" tvg-name="Vos HD" tvg-logo="https://i.ibb.co/r2ZxLX9x/ATB.png" group-title="Nacionales", ATB 
