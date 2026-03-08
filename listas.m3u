@@ -1,9 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="33" tvg-name="Vos HD" tvg-logo="https://i.ibb.co/zWGwgNgP/SE-AL-EN-VIVO.jpg" group-title="Nacionales", EVENTO
-https://1.ftvhd.com:443/espn/mono.m3u8?token=8ae5e105ee7666178bbabb3cb0e99bb616191d13-b9-1773003576-1772985576
+https://rm8zcvk3.fubohd.com:443/dsports/mono.m3u8?token=fc7f8ac65c429550aa2a97c4bf2bb6d0182d851b-d3-1773008587-1772990587
 #EXTINF:-1 tvg-id="33" tvg-name="Vos HD" tvg-logo="https://i.ibb.co/zWGwgNgP/SE-AL-EN-VIVO.jpg" group-title="Nacionales", EVENTO 2
 https://3.ftvhd.com:443/even1/mono.m3u8?token=00a92076d7fbd499ed8ac93b330e0966ae45a484-37-1773003463-1772985463
-
+#EXTINF:-1 tvg-id="33" tvg-name="Vos HD" tvg-logo="https://i.ibb.co/zWGwgNgP/SE-AL-EN-VIVO.jpg" group-title="Nacionales", EVENTO 3
+https://1.ftvhd.com:443/even1/mono.m3u8?token=ddb8742be06d2a3f16300695abfc135c6bd90987-f2-1773008628-1772990628
 
 
 #EXTINF:-1 tvg-id="33" tvg-name="Vos HD" tvg-logo="https://i.ibb.co/r2ZxLX9x/ATB.png" group-title="Nacionales", ATB 
