@@ -1,9 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="33" tvg-name="Vos HD" tvg-logo="https://i.ibb.co/zWGwgNgP/SE-AL-EN-VIVO.jpg" group-title="Nacionales", EVENTO
-https://4.ftvhd.com:443/even9/mono.m3u8?token=3f74e778b050fdfb4ad2040e45524a280816bd64-19-1772946445-1772928445
-
+https://1.ftvhd.com:443/espn/mono.m3u8?token=8ae5e105ee7666178bbabb3cb0e99bb616191d13-b9-1773003576-1772985576
 #EXTINF:-1 tvg-id="33" tvg-name="Vos HD" tvg-logo="https://i.ibb.co/zWGwgNgP/SE-AL-EN-VIVO.jpg" group-title="Nacionales", EVENTO 2
-https://1.ftvhd.com:443/even1/mono.m3u8?token=c9f8c4e5720e9bf5c7c64604a07ec82f6d151d56-67-1772946328-1772928328
+https://3.ftvhd.com:443/even1/mono.m3u8?token=00a92076d7fbd499ed8ac93b330e0966ae45a484-37-1773003463-1772985463
 
 
 
