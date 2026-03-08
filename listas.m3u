@@ -1,10 +1,9 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="33" tvg-name="Vos HD" tvg-logo="https://i.ibb.co/MxxzyZfF/Estadio-Hernando-Siles.png" group-title="Nacionales", EVENTO
-http://181.78.73.64:8000/play/a1vl/index.m3u8
+https://1.ftvhd.com:443/even1/mono.m3u8?token=c9f8c4e5720e9bf5c7c64604a07ec82f6d151d56-67-1772946328-1772928328
 
-#EXTINF:-1 tvg-id="33" tvg-name="Vos HD" tvg-logo="https://i.ibb.co/MxxzyZfF/Estadio-Hernando-Siles.png" group-title="Nacionales", EVENTO 2
-http://live.btv.mx:2424/stream/311878/smAVz_uhytj5REM-4pYNZbkrcB2
+
 
 #EXTINF:-1 tvg-id="33" tvg-name="Vos HD" tvg-logo="https://i.ibb.co/r2ZxLX9x/ATB.png" group-title="Nacionales", ATB 
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/ATB/__op/hls-default/__f/index.m3u8
