@@ -54,14 +54,24 @@ https://rtp.noxun.net/hls720/stream3.m3u8
 
 
 
-#EXTINF:-1 tvg-id="43" tvg-name="GIGAVISION HD" tvg-logo="https://canales.asplurtv.com/logo_gigavision.png" group-title="Nacionales", GIGAVISION
+#EXTINF:-1 tvg-id="43" tvg-name="GIGAVISION HD" tvg-logo="https://canales.asplurtv.com/logo_gigavision.png" group-title="Nacionales", Gigavision
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/GIGAVISION/__op/hls-default/__f/index.m3u8
+
+
+#EXTINF:-1 tvg-id="43" tvg-name="GIGAVISION HD" tvg-logo="https://canales.asplurtv.com/logo_gigavision.png" group-title="Nacionales", Gigavision LP
+https://tv2.bitstreaming.net:3576/live/gigavisionlplive.m3u8
+
+#EXTINF:-1 tvg-id="43" tvg-name="GIGAVISION HD" tvg-logo="https://canales.asplurtv.com/logo_gigavision.png" group-title="Nacionales", Gigavision SC
+https://tv.bitstreaming.net:3348/live/gigavisionlive.m3u8
+
+
+#EXTINF:-1 tvg-id="44" tvg-name="DTV" tvg-logo="https://i.ibb.co/PHC62Xf/images.png" group-title="Nacionales", DTV HD
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/DTV/__op/hls-default/__f/index.m3u8
+
 
 #EXTINF:-1 tvg-id="44" tvg-name="DTV" tvg-logo="https://i.ibb.co/M57FtWcf/DELTA-500-1.png" group-title="Nacionales", Delta
 https://st.deltaboliviainstitucion.org:3778/hybrid/play.m3u8
 
-#EXTINF:-1 tvg-id="44" tvg-name="DTV" tvg-logo="https://i.ibb.co/PHC62Xf/images.png" group-title="Nacionales", DTV HD
-https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/DTV/__op/hls-default/__f/index.m3u8
 
 
 
