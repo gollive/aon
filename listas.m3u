@@ -1,8 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="33" tvg-name="Vos HD" tvg-logo="https://i.ibb.co/zWGwgNgP/SE-AL-EN-VIVO.jpg" group-title="Nacionales", EVENTO
-https://customer-x9x713o5ejqop2z8.cloudflarestream.com/89052e03ca1e43a5b0e050a41bdd9895/manifest/video.m3u8
 
-#EXTINF:-1 tvg-id="33" tvg-name="Vos HD" tvg-logo="https://i.ibb.co/zWGwgNgP/SE-AL-EN-VIVO.jpg" group-title="Nacionales", EVENTO 2
+#EXTINF:-1 tvg-id="33" tvg-name="Vos HD" tvg-logo="https://i.ibb.co/zWGwgNgP/SE-AL-EN-VIVO.jpg" group-title="Nacionales", EVENTO 
 http://181.78.73.64:8000/play/a1vl/index.m3u8
 
 #EXTINF:-1 tvg-id="33" tvg-name="Vos HD" tvg-logo="https://i.ibb.co/r2ZxLX9x/ATB.png" group-title="Nacionales", ATB 
