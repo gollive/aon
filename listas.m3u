@@ -1,6 +1,8 @@
 #EXTM3U
-
 #EXTINF:-1 tvg-id="33" tvg-name="Vos HD" tvg-logo="https://i.ibb.co/zWGwgNgP/SE-AL-EN-VIVO.jpg" group-title="Nacionales", EVENTO
+https://customer-x9x713o5ejqop2z8.cloudflarestream.com/89052e03ca1e43a5b0e050a41bdd9895/manifest/video.m3u8
+
+#EXTINF:-1 tvg-id="33" tvg-name="Vos HD" tvg-logo="https://i.ibb.co/zWGwgNgP/SE-AL-EN-VIVO.jpg" group-title="Nacionales", EVENTO 2
 http://181.78.73.64:8000/play/a1vl/index.m3u8
 
 #EXTINF:-1 tvg-id="33" tvg-name="Vos HD" tvg-logo="https://i.ibb.co/r2ZxLX9x/ATB.png" group-title="Nacionales", ATB 
@@ -127,7 +129,7 @@ https://tv2.bitstreaming.net:3235/multi_live/play_720.m3u8
 https://tvstream.upea.bo/hls/oSs0jSWumTFIIVY97559.m3u8
 
 #EXTINF:-1 tvg-id="44" tvg-name="UMSA" tvg-logo="https://canales.asplurtv.com/logo_tvulpz.png" group-title="Nacionales", UMSA
-https://live.enhdtv.com:8081/8190/tracks-v1a1/mono.m3u
+https://live.enhdtv.com:8081/8190/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-id="44" tvg-name="Univalle" tvg-logo="https://canales.asplurtv.com/logo_univalle.png" group-title="Nacionales", Univalle
@@ -168,16 +170,13 @@ https://59d39900ebfb8.streamlock.net/vostv/vostv/playlist.m3u8
 #EXTINF:-1 tvg-id="36" tvg-name="Estrella" tvg-logo="https://canales.asplurtv.com/logo_teleestrella.png" group-title="Nacionales", Estrella
 https://59d39900ebfb8.streamlock.net:443/teleestrella/teleestrella/playlist.m3u8
 
-#EXTINF:-1 tvg-id="37" tvg-name="FAP TV" tvg-logo="https://canales.asplurtv.com/logo_faptv.png" group-title="Nacionales", FAP TV
-https://lv.andeshost.com/hls/faptv/index.m3u8
+
 
 #EXTINF:-1 tvg-id="44" tvg-name="HTV MUSIC" tvg-logo="https://i.ibb.co/B2VDJ5yL/SITEL.png" group-title="Nacionales", Sitel
 http://181.115.237.3:9560/play/a009/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="38" tvg-name="OFF TV" tvg-logo="https://redtvoff.com.bo/wp-content/uploads/2025/01/TVOFF-Logotipo-200x113.png" group-title="Nacionales", OFF TV
-https://seo.tv.bo/hls/TVOFF.m3u8
 
 
 
@@ -210,7 +209,7 @@ https://59d39900ebfb8.streamlock.net:443/sigloxxi/sigloxxi/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="44" tvg-name="Imperial" tvg-logo="https://canales.asplurtv.com/logo_imperial.png" group-title="Nacionales", Imperial
-https://icecast.online/hls/imperial25/stream.m3u8
+https://tv.centaurychile.com/imperial/streams/EnCyCiwNLsqEQ2kv2852222720686498.m3u8
 
 
 #EXTINF:-1 tvg-id="44" tvg-name="CNN ESPAÑOL" tvg-logo="https://i.ibb.co/1G87bpMB/CNN.png" group-title="Nacionales", CNN ESPAÑOL
