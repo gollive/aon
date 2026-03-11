@@ -3,8 +3,8 @@
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/venus/playlist.m3u8
 #EXTINF:-1 group-title="-",Brazer
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/xBrazer/playlist.m3u8
-#EXTINF:-1 group-title="-",AMC (103)
-http://45.189.151.7:8000/play/a05c/index.m3u8
+#EXTINF:-1 group-title="-",Play Boy
+http://200.115.96.66:4000/play/a02q/index.m3u8
 #EXTINF:-1 group-title="-",ANTENA 3 (101)
 http://45.189.151.7:8000/play/a05a/index.m3u8
 #EXTINF:-1 group-title="-",ANTENA 3 CINE (102)
