@@ -610,5 +610,9 @@ http://live.btv.mx:2424/stream/278776/smAVz_uhytj5REM-4pYNZbkrcB2
 
 
 
+
+#EXTINF:-1 tvg-id="44" tvg-name="HBO" tvg-logo="" group-title="Nacionales", TNT SPORTS SD
+http://live.btv.mx:2424/stream/278777/smAVz_uhytj5REM-4pYNZbkrcB2
+
 #EXTINF:-1 tvg-id="44" tvg-name="HBO" tvg-logo="" group-title="Nacionales", 2
 http://boltv.xyz:80/live/1dkts876/1dkts876/3034.m3u8
