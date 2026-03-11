@@ -54,49 +54,17 @@ http://live.btv.mx:2424/stream/278767/smAVz_uhytj5REM-4pYNZbkrcB2
 http://live.btv.mx:2424/stream/278768/smAVz_uhytj5REM-4pYNZbkrcB2
 
 
-#EXTINF:-1 tvg-id="44" tvg-name="ESPN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" group-title="Nacionales", DSPORTS
-http://104.238.205.28:9090/278758_.m3u8
-
-#EXTINF:-1 tvg-id="44" tvg-name="HBO" tvg-logo="https://i.ibb.co/hFn4xw6C/TNT-SPORTS-AR.png" group-title="Nacionales", TNT SPORTS HD
-http://live.btv.mx:2424/stream/278776/smAVz_uhytj5REM-4pYNZbkrcB2
 
 
-#EXTINF:-1 tvg-id="44" tvg-name="HBO" tvg-logo="https://i.ibb.co/hFn4xw6C/TNT-SPORTS-AR.png" group-title="Nacionales", TNT SPORTS SD
-http://live.btv.mx:2424/stream/278777/smAVz_uhytj5REM-4pYNZbkrcB2
 
-
-#EXTINF:-1 tvg-id="44" tvg-name="ESPN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/TyCSp.png" group-title="Nacionales", TYC sports
-http://live.btv.mx:2424/stream/278779/smAVz_uhytj5REM-4pYNZbkrcB2
-
-#EXTINF:-1 tvg-id="44" tvg-name="ESPN 3" tvg-logo="https://i.ibb.co/5xYtHTHv/TNT-Sports-2023.png" group-title="Nacionales", TNT Sports CH
-http://live.btv.mx:2424/stream/278990/smAVz_uhytj5REM-4pYNZbkrcB2
-
-#EXTINF:-1 tvg-id="44" tvg-name="ESPN 3" tvg-logo="https://i.ibb.co/gZDz0Bvf/TNT-Sports-Premium-Argentina.png" group-title="Nacionales", TNT Sports Premium AR
-http://live.btv.mx:2424/stream/278990/smAVz_uhytj5REM-4pYNZbkrcB2
-
-#EXTINF:-1 tvg-id="44" tvg-name="Liga 1 Max" tvg-logo="https://i.ibb.co/nqYJttxQ/L1-MAX-LOGO.png" group-title="Nacionales", Liga 1 Max 
-http://live.btv.mx:2424/stream/278898/smAVz_uhytj5REM-4pYNZbkrcB2
-
-
-#EXTINF:-1 tvg-id="44" tvg-name="Liga 1 Max" tvg-logo="https://i.ibb.co/nqYJttxQ/L1-MAX-LOGO.png" group-title="Nacionales", Liga 1 Max 
-http://38.187.2.124:8000/play/a067/index.m3u8?hls
 
 
 #EXTINF:-1 tvg-id="44" tvg-name="Liga 1 Max" tvg-logo="https://i.ibb.co/27HfQdfM/descarga.png" group-title="Nacionales", Win Sports 
 http://live.btv.mx:2424/stream/299307/smAVz_uhytj5REM-4pYNZbkrcB2
 
 
-#EXTINF:-1 tvg-id="44" tvg-name="Liga 1 Max" tvg-logo="https://i.ibb.co/hFw5XPXh/Win-Sports-logo.png" group-title="Nacionales", Win Sports +
-http://live.btv.mx:2424/stream/299308/smAVz_uhytj5REM-4pYNZbkrcB2
 
-#EXTINF:-1 tvg-id="44" tvg-name="Liga 1 Max" tvg-logo="https://i.ibb.co/7JRF3X6v/Tigo-Sports-2025.png" group-title="Nacionales", Tigo Sports PY
-http://live.btv.mx:2424/stream/279308/smAVz_uhytj5REM-4pYNZbkrcB2
 
-#EXTINF:-1 tvg-id="44" tvg-name="Liga 1 Max" tvg-logo="https://i.ibb.co/7JRF3X6v/Tigo-Sports-2025.png" group-title="Nacionales", Tigo Sports CR
-http://live.btv.mx:2424/stream/279380/smAVz_uhytj5REM-4pYNZbkrcB2
-
-#EXTINF:-1 tvg-id="44" tvg-name="Liga 1 Max" tvg-logo="https://i.ibb.co/7JRF3X6v/Tigo-Sports-2025.png" group-title="Nacionales", Tigo Sports 
-http://ultrax.online:8080/993683186tv1/2okdik1/61975
 
 #EXTINF:-1 tvg-id="166558" tvg-name="Azteca 7 FHD (i)" tvg-logo="https://i.ibb.co/ymRQLF3C/Logo-de-Azteca-7-2024-cropped.png" group-title="Latinos",Azteca 7 FHD 
 http://live.btv.mx:2424/stream/166558/smAVz_uhytj5REM-4pYNZbkrcB2
@@ -104,8 +72,7 @@ http://live.btv.mx:2424/stream/166558/smAVz_uhytj5REM-4pYNZbkrcB2
 #EXTINF:-1 tvg-id="311878" tvg-name="MX  | FOX ONE 1 P" tvg-logo="https://i.ibb.co/R4MwGf2K/Fox-One-2025.png" group-title="Deportes",MX  | FOX ONE 1 P
 http://live.btv.mx:2424/stream/311878/smAVz_uhytj5REM-4pYNZbkrcB2
 
-#EXTINF:-1 tvg-id="311110" tvg-name="TUDN USA HD P" tvg-logo="https://i.ibb.co/HLHbbC1n/TUDN-Logo.png" group-title="Eventos Del Dia",TUDN USA HD P
-http://live.btv.mx:2424/stream/311110/smAVz_uhytj5REM-4pYNZbkrcB2
+
 
 #EXTINF:-1 tvg-id="158776" tvg-name="Univision Seattle HD (i)" tvg-logo="https://i.ibb.co/PvYJTFtK/Logo-nmas.png" group-title="Estados Unidos",Univision Seattle HD 
 http://live.btv.mx:2424/stream/158776/smAVz_uhytj5REM-4pYNZbkrcB2
