@@ -1,8 +1,8 @@
 #EXTM3U
-#EXTINF:-1 group-title="-" tvg-id="a05j",ADN 40 (110)
-http://45.189.151.7:8000/play/a05j/index.m3u8
-#EXTINF:-1 group-title="-",ADULT SWING(144)
-http://45.189.151.7:8000/play/a06h/index.m3u8
+#EXTINF:-1 group-title="-" tvg-id="a05j",VENUS 
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/venus/playlist.m3u8
+#EXTINF:-1 group-title="-",Brazer
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/xBrazer/playlist.m3u8
 #EXTINF:-1 group-title="-",AMC (103)
 http://45.189.151.7:8000/play/a05c/index.m3u8
 #EXTINF:-1 group-title="-",ANTENA 3 (101)
