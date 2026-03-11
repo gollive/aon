@@ -43,15 +43,15 @@ https://cablered.iptvperu.tv:1936/cablered/espn6_new/playlist.m3u8
 https://cablered.iptvperu.tv:1936/cablered/espn7_new/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="278766" tvg-name="Fox Sports 1 (AR)(P)" tvg-logo="https://i.ibb.co/FqmTWVYQ/FOX-SPORTS-1.png" group-title="Argentina",Fox Sports 1 
-http://live.btv.mx:2424/stream/278766/smAVz_uhytj5REM-4pYNZbkrcB2
+#EXTINF:-1 tvg-id="278766" tvg-name="Fox Sports 1 (AR)(P)" tvg-logo="https://i.ibb.co/FqmTWVYQ/FOX-SPORTS-1.png" group-title="Argentina",Fox Sports  
+http://45.170.40.11:8000/play/a030/index.m3u8?hls
 
 #EXTINF:-1 tvg-id="278767" tvg-name="Fox Sports 2 (AR)(P)" tvg-logo="https://i.ibb.co/tTxqhhvf/FOX-SPORTS-2.png" group-title="Argentina",Fox Sports 2 
-http://live.btv.mx:2424/stream/278767/smAVz_uhytj5REM-4pYNZbkrcB2
+http://45.170.40.11:8000/play/a054/index.m3u8?hls
 
 
 #EXTINF:-1 tvg-id="278768" tvg-name="Fox Sports 3 (AR)(P)" tvg-logo="https://i.ibb.co/zTf2wNGJ/FOX-SPORTS-3.png" group-title="Argentina",Fox Sports 3 
-http://live.btv.mx:2424/stream/278768/smAVz_uhytj5REM-4pYNZbkrcB2
+http://45.170.40.11:8000/play/a045/index.m3u8?hls
 
 
 
