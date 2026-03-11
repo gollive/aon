@@ -279,96 +279,6 @@ https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf7.m3u8
 
 
 
-#EXTINF:-1 tvg-id="44" tvg-name="ESPN" tvg-logo="https://i.ibb.co/q3FdvWk5/ESPN-logos.png" group-title="Nacionales", ESPN
-http://181.115.237.3:9560/play/a02t/index.m3u8
-
-#EXTINF:-1 tvg-id="44" tvg-name="ESPN" tvg-logo="https://i.ibb.co/q3FdvWk5/ESPN-logos.png" group-title="Nacionales", ESPN FHD
-https://cablered.iptvperu.tv:1936/cablered/espn_new/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="44" tvg-name="ESPN 2" tvg-logo="https://i.ibb.co/7NWrzLgS/ESPN2-logo.png" group-title="Nacionales", ESPN 2
-http://181.118.158.103:8000/play/a039/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="44" tvg-name="ESPN 2" tvg-logo="https://i.ibb.co/7NWrzLgS/ESPN2-logo.png" group-title="Nacionales", ESPN 2 FHD
-https://cablered.iptvperu.tv:1936/cablered/espn2_new/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="44" tvg-name="ESPN 3" tvg-logo="https://i.ibb.co/BHgrD6V2/ESPN3-logo.png" group-title="Nacionales", ESPN 3
-http://181.118.158.103:8000/play/a03a/index.m3u8?hls
-
-#EXTINF:-1 tvg-id="44" tvg-name="ESPN 3" tvg-logo="https://i.ibb.co/BHgrD6V2/ESPN3-logo.png" group-title="Nacionales", ESPN 3 FHD
-https://cablered.iptvperu.tv:1936/cablered/espn3_new/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="44" tvg-name="ESPN 3" tvg-logo="https://i.ibb.co/8gMKZSQ1/ESPN-4-logo.png" group-title="Nacionales", ESPN 4
-http://168.205.55.2:8000/play/a01a/index.m3u8
-
-#EXTINF:-1 tvg-id="44" tvg-name="ESPN 3" tvg-logo="https://i.ibb.co/8gMKZSQ1/ESPN-4-logo.png" group-title="Nacionales", ESPN 4 FHD
-https://cablered.iptvperu.tv:1936/cablered/espn4_new/playlist.m3u8
-
-#EXTINF:-1 tvg-id="44" tvg-name="ESPN 3" tvg-logo="https://i.ibb.co/YYp4qy8/ESPN-5-logo.png" group-title="Nacionales", ESPN 5
-http://168.205.55.2:8000/play/a00h/index.m3u8
-
-
-#EXTINF:-1 tvg-id="44" tvg-name="ESPN 3" tvg-logo="https://i.ibb.co/YYp4qy8/ESPN-5-logo.png" group-title="Nacionales", ESPN 5 FHD
-https://cablered.iptvperu.tv:1936/cablered/espn5_new/playlist.m3u8
-
-#EXTINF:-1 tvg-id="44" tvg-name="ESPN 3" tvg-logo="https://i.ibb.co/Y7PvTWhk/ESPN-6-logo.png" group-title="Nacionales", ESPN 6 FHD
-https://cablered.iptvperu.tv:1936/cablered/espn6_new/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="44" tvg-name="ESPN 3" tvg-logo="https://i.ibb.co/ZRnP4zyd/ESPN-7-logo.png" group-title="Nacionales", ESPN 7 FHD
-https://cablered.iptvperu.tv:1936/cablered/espn7_new/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="278766" tvg-name="Fox Sports 1 (AR)(P)" tvg-logo="https://i.ibb.co/FqmTWVYQ/FOX-SPORTS-1.png" group-title="Argentina",Fox Sports 1 
-http://live.btv.mx:2424/stream/278766/smAVz_uhytj5REM-4pYNZbkrcB2
-
-#EXTINF:-1 tvg-id="278767" tvg-name="Fox Sports 2 (AR)(P)" tvg-logo="https://i.ibb.co/tTxqhhvf/FOX-SPORTS-2.png" group-title="Argentina",Fox Sports 2 
-http://live.btv.mx:2424/stream/278767/smAVz_uhytj5REM-4pYNZbkrcB2
-
-
-#EXTINF:-1 tvg-id="278768" tvg-name="Fox Sports 3 (AR)(P)" tvg-logo="https://i.ibb.co/zTf2wNGJ/FOX-SPORTS-3.png" group-title="Argentina",Fox Sports 3 
-http://live.btv.mx:2424/stream/278768/smAVz_uhytj5REM-4pYNZbkrcB2
-
-
-#EXTINF:-1 tvg-id="44" tvg-name="ESPN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" group-title="Nacionales", DSPORTS
-http://104.238.205.28:9090/278758_.m3u8
-
-
-
-#EXTINF:-1 tvg-id="44" tvg-name="ESPN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/TyCSp.png" group-title="Nacionales", TYC sports
-http://live.btv.mx:2424/stream/278779/smAVz_uhytj5REM-4pYNZbkrcB2
-
-#EXTINF:-1 tvg-id="44" tvg-name="ESPN 3" tvg-logo="https://i.ibb.co/5xYtHTHv/TNT-Sports-2023.png" group-title="Nacionales", TNT Sports CH
-http://live.btv.mx:2424/stream/278990/smAVz_uhytj5REM-4pYNZbkrcB2
-
-#EXTINF:-1 tvg-id="44" tvg-name="ESPN 3" tvg-logo="https://i.ibb.co/gZDz0Bvf/TNT-Sports-Premium-Argentina.png" group-title="Nacionales", TNT Sports Premium AR
-http://live.btv.mx:2424/stream/278990/smAVz_uhytj5REM-4pYNZbkrcB2
-
-#EXTINF:-1 tvg-id="44" tvg-name="Liga 1 Max" tvg-logo="https://i.ibb.co/nqYJttxQ/L1-MAX-LOGO.png" group-title="Nacionales", Liga 1 Max 
-http://live.btv.mx:2424/stream/278898/smAVz_uhytj5REM-4pYNZbkrcB2
-
-
-#EXTINF:-1 tvg-id="44" tvg-name="Liga 1 Max" tvg-logo="https://i.ibb.co/nqYJttxQ/L1-MAX-LOGO.png" group-title="Nacionales", Liga 1 Max 
-http://38.187.2.124:8000/play/a067/index.m3u8?hls
-
-
-#EXTINF:-1 tvg-id="44" tvg-name="Liga 1 Max" tvg-logo="https://i.ibb.co/27HfQdfM/descarga.png" group-title="Nacionales", Win Sports 
-http://live.btv.mx:2424/stream/299307/smAVz_uhytj5REM-4pYNZbkrcB2
-
-
-#EXTINF:-1 tvg-id="44" tvg-name="Liga 1 Max" tvg-logo="https://i.ibb.co/hFw5XPXh/Win-Sports-logo.png" group-title="Nacionales", Win Sports +
-http://live.btv.mx:2424/stream/299308/smAVz_uhytj5REM-4pYNZbkrcB2
-
-#EXTINF:-1 tvg-id="44" tvg-name="Liga 1 Max" tvg-logo="https://i.ibb.co/7JRF3X6v/Tigo-Sports-2025.png" group-title="Nacionales", Tigo Sports PY
-http://live.btv.mx:2424/stream/279308/smAVz_uhytj5REM-4pYNZbkrcB2
-
-#EXTINF:-1 tvg-id="44" tvg-name="Liga 1 Max" tvg-logo="https://i.ibb.co/7JRF3X6v/Tigo-Sports-2025.png" group-title="Nacionales", Tigo Sports CR
-http://live.btv.mx:2424/stream/279380/smAVz_uhytj5REM-4pYNZbkrcB2
-
-#EXTINF:-1 tvg-id="44" tvg-name="Liga 1 Max" tvg-logo="https://i.ibb.co/7JRF3X6v/Tigo-Sports-2025.png" group-title="Nacionales", Tigo Sports 
-http://ultrax.online:8080/993683186tv1/2okdik1/61975
 
 #EXTINF:-1 tvg-id="166558" tvg-name="Azteca 7 FHD (i)" tvg-logo="https://i.ibb.co/ymRQLF3C/Logo-de-Azteca-7-2024-cropped.png" group-title="Latinos",Azteca 7 FHD 
 http://live.btv.mx:2424/stream/166558/smAVz_uhytj5REM-4pYNZbkrcB2
@@ -605,14 +515,6 @@ https://cablered.iptvperu.tv:1936/transcoder/dreamworks_t2.stream/playlist.m3u8
 https://cablered.iptvperu.tv:1936/cablered/cartoonnetwork_new/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="44" tvg-name="HBO" tvg-logo="" group-title="Nacionales", TNT SPORTS
-http://live.btv.mx:2424/stream/278776/smAVz_uhytj5REM-4pYNZbkrcB2
-
-
-
-
-#EXTINF:-1 tvg-id="44" tvg-name="HBO" tvg-logo="" group-title="Nacionales", TNT SPORTS SD
-http://live.btv.mx:2424/stream/278777/smAVz_uhytj5REM-4pYNZbkrcB2
 
 #EXTINF:-1 tvg-id="44" tvg-name="HBO" tvg-logo="" group-title="Nacionales", 2
 http://boltv.xyz:80/live/1dkts876/1dkts876/3034.m3u8
