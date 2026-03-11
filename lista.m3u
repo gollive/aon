@@ -1,10 +1,13 @@
 #EXTM3U
-#EXTINF:-1 group-title="-" tvg-id="a05j",VENUS 
+
+#EXTINF:-1 tvg-id="34" tvg-name="Vos HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_Venus_logo.svg/330px-Canal_Venus_logo.svg.png" group-title="Nacionales",VENUS 
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/venus/playlist.m3u8
-#EXTINF:-1 group-title="-",Brazer
+
+#EXTINF:-1 tvg-id="34" tvg-name="Vos HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Brazzers_logo.svg/3840px-Brazzers_logo.svg.png" group-title="Nacionales",Brazer
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/xBrazer/playlist.m3u8
 #EXTINF:-1 group-title="-",Play Boy
 http://200.115.96.66:4000/play/a02q/index.m3u8
+
 #EXTINF:-1 group-title="-",ANTENA 3 (101)
 http://45.189.151.7:8000/play/a05a/index.m3u8
 #EXTINF:-1 group-title="-",ANTENA 3 CINE (102)
