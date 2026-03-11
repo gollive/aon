@@ -5,8 +5,8 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/venus/playlist.m3u8
 
 #EXTINF:-1 tvg-id="34" tvg-name="Vos HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Brazzers_logo.svg/3840px-Brazzers_logo.svg.png" group-title="Nacionales",Brazer
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/xBrazer/playlist.m3u8
-#EXTINF:-1 group-title="-",Play Boy
-http://live.btv.mx:2424/stream/165182/smAVz_uhytj5REM-4pYNZbkrcB2
+#EXTINF:-1 group-title="-",Play Boy 2
+http://181.224.226.128:5000/play/a04a/index.m3u8
 #EXTINF:-1 group-title="-",Play Boy
 http://200.59.188.3:8000/play/a0yo
 
