@@ -7,5 +7,6 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/venus/playlist.m3u8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/xBrazer/playlist.m3u8
 #EXTINF:-1 group-title="-",Play Boy
 http://live.btv.mx:2424/stream/165182/smAVz_uhytj5REM-4pYNZbkrcB2
-
+#EXTINF:-1 group-title="-",Play Boy
+http://200.59.188.3:8000/play/a0yo
 
