@@ -605,7 +605,7 @@ https://cablered.iptvperu.tv:1936/transcoder/dreamworks_t2.stream/playlist.m3u8
 https://cablered.iptvperu.tv:1936/cablered/cartoonnetwork_new/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="44" tvg-name="HBO" tvg-logo="" group-title="Nacionales", 1
+#EXTINF:-1 tvg-id="44" tvg-name="HBO" tvg-logo="" group-title="Nacionales", TNT SPORTS
 http://live.btv.mx:2424/stream/278776/smAVz_uhytj5REM-4pYNZbkrcB2
 
 
